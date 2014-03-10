@@ -16,7 +16,7 @@
 //		//Else call changeStudentInfo();
 //'0': return;
 //Otherwise: show error, ask for other input.
-void mainChangeStudentInfo() {
+void StudentList::mainChangeStudentInfo() {
 	for (;;) {
 		cout << endl << endl;
 		cout << "Change a student info: " << endl;
@@ -80,12 +80,12 @@ void mainChangeStudentInfo() {
 //changeEnterYear()
 //changeClassName()
 //changeMajor()
-void changeStudentInfo(int id) {
+void StudentList::changeStudentInfo(int id) {
 	for(;;) {
-		cout << "Student Info: " << endl;
-		int i = posOfID(id);
-		usth_student_list[i].Print();
-		cout << endl;		
+//		cout << "Student Info: " << endl;
+//		int i = posOfID(id);
+//		usth_student_list[i].Print();
+//		cout << endl;		
 		cout << "Choose one type of change: " << endl;
 		cout << "1. Change name." << endl;
 		cout << "2. Change dOB." << endl;
@@ -138,49 +138,49 @@ void changeStudentInfo(int id) {
 //ask for new info, ask for re-enter if the info is invalid
 //update student info in usth_student_list[]
 //call writeFile() to update the new info in output_text_file
-void changeName(int id) {
+void StudentList::changeName(int id) {
 	cout << "Student Name: " << endl;
-	int i = posOfID(id);
-	cout << usth_student_list[i].Get_name() << endl;	
+	student_pos i = posOfID(id);
+	cout << i->Get_name() << endl;	
 	string new_name;
 	cin.ignore();
 	cout << "Enter new name: ";
 	getline(cin, new_name);//cin >> new_name if new_name is integer!
-	usth_student_list[i].Set_name(new_name);
-	writeFile(output_text_file, usth_student_list, stu_list_size);
+	i->Set_name(new_name);
+	writeFile(output_text_file);
  	cout << "Name update success!" << endl;
 }
 
-void changeDOB(int id) {
+void StudentList::changeDOB(int id) {
 	cout << "Date of Birth: " << endl;
-	int i = posOfID(id);
-	cout << usth_student_list[i].Get_dOB() << endl;	
+	student_pos i = posOfID(id);
+	cout << i->Get_dOB() << endl;	
 	string new_dOB;
 	cin.ignore();
 	cout << "Enter new info: ";
 	getline(cin, new_dOB);//cin >> new_name if new_name is integer!
-	usth_student_list[i].Set_dOB(new_dOB);
-	writeFile(output_text_file, usth_student_list, stu_list_size);
+	i->Set_dOB(new_dOB);
+	writeFile(output_text_file);
  	cout << "New date of birth update success!" << endl;
 }
 
-void changeAddress(int id) {
+void StudentList::changeAddress(int id) {
 	cout << "Student's address: " << endl;
-	int i = posOfID(id);
-	cout << usth_student_list[i].Get_address() << endl;	
+	student_pos i = posOfID(id);
+	cout << i->Get_address() << endl;	
 	string new_address;
 	cin.ignore();
 	cout << "Enter new address: ";
 	getline(cin, new_address);//cin >> new_name if new_name is integer!
-	usth_student_list[i].Set_address(new_address);
-	writeFile(output_text_file, usth_student_list, stu_list_size);
+	i->Set_address(new_address);
+	writeFile(output_text_file);
  	cout << "New address update success!" << endl;
 }
 
-void changeEnterYear(int id) {	
+void StudentList::changeEnterYear(int id) {	
 	cout << "Student's enter year: " << endl;
-	int i = posOfID(id);
-	cout << usth_student_list[i].Get_enter_year() << endl;	
+	student_pos i = posOfID(id);
+	cout << i->Get_enter_year() << endl;	
 	int new_enter_year;
 	cout << "Enter new enter year: ";
 	while (!(cin >> new_enter_year)||new_enter_year<0) {
@@ -188,34 +188,34 @@ void changeEnterYear(int id) {
 		cin.clear();
 		cin.ignore(256,'\n');
 	}
-	usth_student_list[i].Set_enter_year(new_enter_year);
-	writeFile(output_text_file, usth_student_list, stu_list_size);
+	i->Set_enter_year(new_enter_year);
+	writeFile(output_text_file);
  	cout << "New info update success!" << endl;
 }
 
-void changeClassName(int id) {
+void StudentList::changeClassName(int id) {
 	cout << "Student's class name: " << endl;
-	int i = posOfID(id);
-	cout << usth_student_list[i].Get_class_name() << endl;	
+	student_pos i = posOfID(id);
+	cout << i->Get_class_name() << endl;	
 	string new_class_name;
 	cin.ignore();
 	cout << "Enter new class name: ";
 	getline(cin, new_class_name);//cin >> new_name if new_name is integer!
-	usth_student_list[i].Set_class_name(new_class_name);
-	writeFile(output_text_file, usth_student_list, stu_list_size);
+	i->Set_class_name(new_class_name);
+	writeFile(output_text_file);
  	cout << "New class name update success!" << endl;
 }
 
-void changeMajor(int id) {
+void StudentList::changeMajor(int id) {
 	cout << "Student's major: " << endl;
-	int i = posOfID(id);
-	cout << usth_student_list[i].Get_major() << endl;	
+	student_pos i = posOfID(id);
+	cout << i->Get_major() << endl;	
 	string new_major;
 	cin.ignore();
 	cout << "Enter new major: ";
 	getline(cin, new_major);//cin >> new_name if new_name is integer!
-	usth_student_list[i].Set_major(new_major);
-	writeFile(output_text_file, usth_student_list, stu_list_size);
+	i->Set_major(new_major);
+	writeFile(output_text_file);
  	cout << "New major update success!" << endl;
 }
 

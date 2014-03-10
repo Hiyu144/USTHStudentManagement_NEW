@@ -12,7 +12,7 @@
 //'2': removeStudent()
 //'0': return;
 //Otherwise: print "Invalid command", ask for other input.
-void mainRemoveStudent() {
+void StudentList::mainRemoveStudent() {
 	for(;;) {
 		cout << endl << endl;
 		cout << "Remove a student: " << endl;
@@ -37,7 +37,7 @@ void mainRemoveStudent() {
 	  	case 1: mainSearch();
 	  					break;
 	  					//mainScreen();
-	  	case 2: removeStudent(usth_student_list, stu_list_size);
+	  	case 2: removeStudent();
 	  					//mainScreen();
 	  					break;	  	
 	  	case 0: return;
@@ -55,7 +55,7 @@ void mainRemoveStudent() {
 //search the student in usth_student_list[] that match the id
 //remove that student, reduce size by 1 
 //call writeFile() to update info in output_text_file
-void removeStudent(Student l[], int &size) {
+void StudentList::removeStudent() {
 	int id;
 	cout << "Enter student ID: ";
 	while (!(cin >> id)||id<0) {
@@ -64,16 +64,9 @@ void removeStudent(Student l[], int &size) {
 		cin.ignore(256,'\n');
 	}	
 	if (isValidID(id)) {
-		int i = posOfID(id);
-		if (i > 0) {		
-			for (; i < size - 1; ++i){			
-	 			//int newId = l[i].Get_id();
-	 			l[i] = l[i+1];
-	 			//l[i].Set_id(newId);
-	 		}
-	 	}
- 		size--;
- 		writeFile(output_text_file, l, size);
+		student_pos i = posOfID(id);
+		stu_list.erase(i);
+ 		writeFile(output_text_file);
  		cout << "Remove success!" << endl;
 	}  
 	else cout << "There is no student with the id: " << id << endl;		

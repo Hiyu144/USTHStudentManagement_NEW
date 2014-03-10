@@ -14,7 +14,7 @@
 //'3': directAddStudent()
 //'0': return;
 //Otherwise: print "Invalid command", ask for other input.
-void mainAddStudent() {
+void StudentList::mainAddStudent() {
 	for (;;) {	
 		cout << endl << endl;
 		cout << "Add a student: " << endl;
@@ -61,7 +61,7 @@ void mainAddStudent() {
 //1. Add student //call addStudent() 
 //2. Re enter info //mainAddStudent() 
 //0. return;
-void createStudent() {
+void StudentList::createStudent() {
 	string new_name, new_dob, new_address, new_class_name, new_major;
 	int new_enter_year;
 	cout << "Name: " << endl;
@@ -85,7 +85,7 @@ void createStudent() {
 	cout << "Major: " << endl;
 	//cin.ignore();
 	getline(cin, new_major);	
-	int new_id = newID(usth_student_list, stu_list_size);	
+	int new_id = newID();	
 	Student newbie( new_id, 
 									new_name, 
 									new_dob, 
@@ -105,7 +105,7 @@ void createStudent() {
 			cin.ignore(256,'\n');
 		} 
 	switch (command) {
-	  	case 1: addStudent(newbie, usth_student_list, stu_list_size);
+	  	case 1: addStudent(newbie);
 							cout << "Add success! New student info: " << endl;
 							newbie.Print();
 							cout << endl;
@@ -129,11 +129,13 @@ void createStudent() {
 
 //Add student newbie into the end of  usth_student_list[], size++
 //write to the output text file
-void addStudent(Student newbie, Student l[], int &size) {		
-	l[size] = newbie;
-	int lastStudentId = l[size - 1].Get_id();
-	int newId = lastStudentId + 1;
-	l[size].Set_id(newId);
-	size++;				
-	writeFile(output_text_file, l, size);
+void StudentList::addStudent(Student newbie) {		
+	//l[size] = newbie;
+	int lastStudentID = stu_list.back().Get_id();
+	int newID = lastStudentID + 1;
+	newbie.Set_id(newID);
+	stu_list.push_back(newbie);
+	//l[size].Set_id(newId);
+	//size++;				
+	writeFile(output_text_file);
 }

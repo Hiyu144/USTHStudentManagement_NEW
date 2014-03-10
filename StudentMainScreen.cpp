@@ -16,12 +16,12 @@
 //'4': addStudent()
 //Otherwise: print "Invalid command", ask for other input.
 
-void mainScreen() {
-	readFile(input_text_file, usth_student_list, stu_list_size);
-	
+void StudentList::mainScreen() {
+	//readFile(input_text_file, usth_student_list, stu_list_size);
+	//StudentList l("USTH_student_list.txt");
 	for(;;) {
 		cout << endl << endl;
-		cout << "USTHStudentManager v5.1" << endl;
+		cout << "USTHStudentManager v5.3" << endl;
 		cout << "1. Search." << endl;
 		cout << "2. Change student info." << endl;
 	  cout << "3. Remove student." << endl;
