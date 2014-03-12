@@ -105,10 +105,14 @@ void StudentList::createStudent() {
 			cin.ignore(256,'\n');
 		} 
 	switch (command) {
-	  	case 1: addStudent(newbie);
-							cout << "Add success! New student info: " << endl;
-							newbie.Print();
-							cout << endl;
+	  	case 1: if (userConfirm()) {
+	  						addStudent(newbie);
+								cout << "Add success! New student info: " << endl;
+								newbie.Print();
+								cout << endl;
+	  					} else {
+	  						cout << "No change is commited";
+	  					}	  					
 	  					break;	  						  
 	  	case 0: return;
 	  	default: 

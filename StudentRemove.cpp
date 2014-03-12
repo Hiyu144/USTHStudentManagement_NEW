@@ -64,10 +64,14 @@ void StudentList::removeStudent() {
 		cin.ignore(256,'\n');
 	}	
 	if (isValidID(id)) {
-		student_pos i = posOfID(id);
-		stu_list.erase(i);
- 		writeFile(output_text_file);
- 		cout << "Remove success!" << endl;
+		if (userConfirm()) {		
+			student_pos i = posOfID(id);
+			stu_list.erase(i);
+	 		writeFile(output_text_file);
+	 		cout << "Remove success!" << endl;
+	 	} else {
+	 		cout << "No change is committed";
+	 	}
 	}  
 	else cout << "There is no student with the id: " << id << endl;		
 }

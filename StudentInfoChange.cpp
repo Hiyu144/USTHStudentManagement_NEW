@@ -82,10 +82,10 @@ void StudentList::mainChangeStudentInfo() {
 //changeMajor()
 void StudentList::changeStudentInfo(int id) {
 	for(;;) {
-//		cout << "Student Info: " << endl;
-//		int i = posOfID(id);
-//		usth_student_list[i].Print();
-//		cout << endl;		
+		cout << "Student Info: " << endl;
+		student_pos i = posOfID(id);
+		i->Print();
+		cout << endl;		
 		cout << "Choose one type of change: " << endl;
 		cout << "1. Change name." << endl;
 		cout << "2. Change dOB." << endl;
@@ -146,9 +146,15 @@ void StudentList::changeName(int id) {
 	cin.ignore();
 	cout << "Enter new name: ";
 	getline(cin, new_name);//cin >> new_name if new_name is integer!
-	i->Set_name(new_name);
-	writeFile(output_text_file);
- 	cout << "Name update success!" << endl;
+	if (userConfirm()) {
+		i->Set_name(new_name);
+		writeFile(output_text_file);
+ 		cout << "Name update success!" << endl;
+	}
+	else {
+		cout << "No change is commited" << endl;
+	}
+	
 }
 
 void StudentList::changeDOB(int id) {
@@ -159,9 +165,14 @@ void StudentList::changeDOB(int id) {
 	cin.ignore();
 	cout << "Enter new info: ";
 	getline(cin, new_dOB);//cin >> new_name if new_name is integer!
-	i->Set_dOB(new_dOB);
-	writeFile(output_text_file);
- 	cout << "New date of birth update success!" << endl;
+	if (userConfirm()) {
+		i->Set_dOB(new_dOB);
+		writeFile(output_text_file);
+	 	cout << "New date of birth update success!" << endl;
+ }
+ else {
+ 		cout << "No change is commited" << endl;
+ }
 }
 
 void StudentList::changeAddress(int id) {
@@ -172,9 +183,13 @@ void StudentList::changeAddress(int id) {
 	cin.ignore();
 	cout << "Enter new address: ";
 	getline(cin, new_address);//cin >> new_name if new_name is integer!
-	i->Set_address(new_address);
-	writeFile(output_text_file);
- 	cout << "New address update success!" << endl;
+	if (userConfirm()) {
+		i->Set_address(new_address);
+		writeFile(output_text_file);
+	 	cout << "New address update success!" << endl;
+	} else {
+		cout << "No change is commited" << endl;
+	}
 }
 
 void StudentList::changeEnterYear(int id) {	
@@ -188,9 +203,13 @@ void StudentList::changeEnterYear(int id) {
 		cin.clear();
 		cin.ignore(256,'\n');
 	}
-	i->Set_enter_year(new_enter_year);
-	writeFile(output_text_file);
- 	cout << "New info update success!" << endl;
+	if (userConfirm()) {
+		i->Set_enter_year(new_enter_year);
+		writeFile(output_text_file);
+	 	cout << "New info update success!" << endl;
+	} else {
+		cout << "No change is commited" << endl;
+	}
 }
 
 void StudentList::changeClassName(int id) {
@@ -201,9 +220,13 @@ void StudentList::changeClassName(int id) {
 	cin.ignore();
 	cout << "Enter new class name: ";
 	getline(cin, new_class_name);//cin >> new_name if new_name is integer!
-	i->Set_class_name(new_class_name);
-	writeFile(output_text_file);
- 	cout << "New class name update success!" << endl;
+	if (userConfirm()) {
+		i->Set_class_name(new_class_name);
+		writeFile(output_text_file);
+	 	cout << "New class name update success!" << endl;
+	} else {
+		cout << "No change is commited" << endl;
+	}
 }
 
 void StudentList::changeMajor(int id) {
@@ -214,8 +237,12 @@ void StudentList::changeMajor(int id) {
 	cin.ignore();
 	cout << "Enter new major: ";
 	getline(cin, new_major);//cin >> new_name if new_name is integer!
-	i->Set_major(new_major);
-	writeFile(output_text_file);
- 	cout << "New major update success!" << endl;
+	if (userConfirm()) {
+		i->Set_major(new_major);
+		writeFile(output_text_file);
+	 	cout << "New major update success!" << endl;
+	} else {
+		cout << "No change is commited" << endl;
+	}
 }
 
