@@ -1,0 +1,24 @@
+Subject
+- ID (rec short)
+- Name String
+- Short Number of Credits
+- String Type MATH (1.1 = ID)
+- Short preID (ID of the require subject)
+
+
+Timetable
+- Subject ID - use Subject class
+- Lecturer ID - use Lecturer class
+- Time
+- Classroom
+- //Hidden: Semester
+
+Lecture - Inherit Person
+- Field str
+- Title str
+- Year int
+
+Staff - Inherit Person
+- Department
+- Position 
+- Slary rate short
