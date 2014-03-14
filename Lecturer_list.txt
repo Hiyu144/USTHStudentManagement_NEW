@@ -1,0 +1,2000 @@
+1:Brigitte:12/25/1954:Delta Jct:ICT:Professor:34
+2:Christopher:12/24/1950:Lufkin:BIO:PhD:29
+3:Kara:12/28/1967:Fargo:RE:Master:36
+4:Bambi:11/7/1962:Orange City:BIO:Professor:24
+5:Franklin:9/6/1956:Oakland:SA:PhD:23
+6:Karen:5/26/1971:Seattle:RE:Master:24
+7:Joann:8/8/1961:Peoria:BIO:Master:33
+8:Darlene:9/24/1966:Saginaw:RE:Professor:23
+9:Vennie:6/4/1950:San Antonio:WEO:Master:36
+10:Jenifer:7/17/1969:Southfield:MSN:Professor:20
+11:Jose:5/31/1960:Hattiesburg:ICT:PhD:25
+12:Stephanie:12/17/1968:Pasadena:RE:PhD:39
+13:Patti:4/9/1951:Tempe:MSN:PhD:45
+14:Christopher:4/10/1967:Mclean:ICT:Professor:49
+15:Elizabeth:12/31/1961:Hermosa:ICT:PhD:21
+16:Barbara:8/28/1961:Tulsa:WEO:Master:42
+17:Pamela:7/3/1972:Show Low:BIO:Professor:29
+18:James:6/6/1971:Ridgeway:WEO:Master:36
+19:Carl:6/9/1968:Anchorage:RE:PhD:46
+20:Walter:3/6/1971:Salem:SA:Master:44
+21:Nancy:10/14/1964:Tempe:BIO:Professor:39
+22:Kelli:12/6/1959:Pleasantville:ICT:Professor:22
+23:Phillip:4/5/1970:Mccutchenville:ICT:PhD:21
+24:Juan:6/17/1963:Cambridge:BIO:PhD:35
+25:Carolina:5/29/1954:Anaheim:RE:Professor:46
+26:Douglas:9/23/1954:Colorado Springs:ICT:PhD:32
+27:Vanesa:1/12/1968:Brockton:SA:Master:41
+28:Dwayne:2/2/1970:Burr Ridge:BIO:Professor:22
+29:Leland:2/26/1964:Boston:BIO:Master:38
+30:Joseph:11/1/1966:Houston:MSN:PhD:26
+31:Leon:10/15/1953:Hot Springs:MSN:PhD:40
+32:Millard:4/27/1971:Indianapolis:ICT:Master:29
+33:Charlotte:5/24/1968:Lexington:ICT:Master:43
+34:Albert:7/21/1972:Rockford:RE:PhD:37
+35:Catherine:5/13/1962:Conway:ICT:PhD:22
+36:Taylor:12/3/1963:Maitland:WEO:PhD:26
+37:Brian:2/11/1963:Seattle:ICT:PhD:41
+38:William:5/12/1961:Westerville:ICT:Master:41
+39:Marjorie:9/9/1970:Monroe:SA:Master:40
+40:Lawrence:8/5/1965:Butte:RE:Professor:36
+41:Robert:10/13/1967:Port Moller:BIO:Master:33
+42:Peggy:7/30/1960:Oakland:SA:Master:47
+43:Leon:4/18/1959:Baton Rouge:SA:PhD:40
+44:Ricky:11/14/1967:Hot Springs:BIO:PhD:30
+45:Soledad:8/2/1950:San Antonio:WEO:Professor:31
+46:Elisa:4/9/1972:South Burlington:BIO:Professor:27
+47:Nancy:2/27/1953:Austin:RE:PhD:31
+48:John:9/26/1956:Miami:WEO:Master:41
+49:Judith:4/15/1954:San Diego:SA:Professor:22
+50:Jason:4/20/1951:Columbus:ICT:PhD:35
+51:Kimberly:9/24/1954:Yakima:WEO:Master:35
+52:Stephanie:3/9/1964:Los Angeles:ICT:Master:50
+53:Lynnette:10/11/1954:Herndon:RE:PhD:42
+54:Andy:3/27/1960:Garden City:ICT:Master:27
+55:Raul:5/23/1964:Charlotte:SA:Master:35
+56:Rose:3/14/1954:San Diego:MSN:Professor:22
+57:Emory:12/15/1958:Denver:ICT:PhD:49
+58:Lorraine:12/27/1967:Lyndhurst:RE:Professor:39
+59:David:10/25/1954:Waipahu:RE:PhD:36
+60:Nancy:4/18/1971:Chicago:MSN:Master:20
+61:Carolyn:8/5/1956:Belview:SA:Professor:37
+62:Mildred:1/5/1971:Houston:BIO:PhD:37
+63:Elizabeth:12/5/1950:San Antonio:SA:Master:45
+64:Jose:10/24/1950:Spokane:RE:PhD:27
+65:Shannon:6/19/1955:Scottsdale:WEO:PhD:46
+66:Alexandria:4/18/1952:Maud:SA:Professor:30
+67:Ivonne:4/8/1967:Waukesha:SA:PhD:40
+68:Jennifer:6/14/1956:Damascus:ICT:Professor:32
+69:Gregory:12/13/1966:Jefferson City:WEO:PhD:23
+70:John:2/29/1968:Waterbury:RE:PhD:21
+71:Troy:11/27/1962:Springfield:RE:Master:42
+72:Leslie:12/3/1953:San Diego:MSN:Master:32
+73:Leonard:7/23/1966:San Francisco:BIO:Master:24
+74:Kristin:6/20/1966:Los Gatos:SA:PhD:30
+75:James:6/17/1950:Marienthal:SA:Master:50
+76:Bob:6/18/1964:Portland:BIO:Master:35
+77:Tony:2/12/1967:Winchester:MSN:Professor:31
+78:Marco:9/17/1960:Tampa:WEO:PhD:49
+79:Debra:3/6/1952:Centennial:WEO:PhD:38
+80:Lindsey:1/14/1961:Keansburg:ICT:PhD:30
+81:Janette:10/13/1961:Monterey:ICT:PhD:47
+82:Perry:6/20/1961:Westborough:RE:Master:40
+83:Mary:2/24/1952:Hyannis:ICT:PhD:36
+84:Paula:11/1/1950:Whitestone:MSN:PhD:42
+85:Gail:9/19/1953:Atlanta:ICT:Professor:27
+86:David:2/1/1961:Beaumont:MSN:PhD:43
+87:Darrel:2/15/1953:Pontiac:BIO:PhD:21
+88:Kenneth:3/29/1960:Lexington:RE:PhD:37
+89:Olive:7/3/1958:Allentown:BIO:Professor:35
+90:Doris:11/3/1963:Fremont:SA:Master:38
+91:Amanda:11/2/1965:Cleveland:BIO:PhD:33
+92:Kiesha:7/26/1958:Alpena:ICT:Professor:24
+93:Kristen:3/7/1969:Montgomery:RE:Master:35
+94:Patrica:2/17/1957:Detroit:WEO:Master:39
+95:Alfredo:11/2/1972:San Diego:RE:Master:41
+96:Melvin:3/6/1959:Marquette:SA:PhD:29
+97:William:3/4/1971:Concord:BIO:PhD:23
+98:Bonnie:11/23/1958:Oklahoma City:BIO:Professor:33
+99:Mary:6/11/1951:Charlottesville:BIO:PhD:23
+100:Melissa:11/15/1956:Dallas:SA:Professor:31
+101:Mary:11/25/1968:New Orleans:MSN:PhD:42
+102:Karen:10/17/1970:Silver Spring:RE:Master:44
+103:Myra:8/29/1967:Fort Myers:SA:Professor:46
+104:Lester:11/4/1965:Akron:ICT:Master:23
+105:Walton:4/29/1972:Charleston:WEO:Master:48
+106:Yelena:9/16/1967:Nanjemoy:ICT:PhD:29
+107:Alicia:8/1/1951:Miramar:WEO:PhD:43
+108:Theresa:2/9/1952:Los Angeles:SA:Professor:39
+109:Marjorie:10/1/1970:El Paso:MSN:PhD:27
+110:Mary:7/19/1956:Allentown:SA:PhD:32
+111:Bryan:7/18/1954:Cutchogue:WEO:Master:45
+112:Roy:1/20/1961:Blountville:RE:PhD:37
+113:Rebecca:7/7/1955:Independence:SA:PhD:30
+114:Susan:10/20/1958:Worthington:SA:Master:21
+115:Scott:7/21/1969:Jasonville:RE:Master:26
+116:Bernice:6/17/1970:Atlanta:WEO:Professor:20
+117:Jeffrey:7/12/1951:Tampa:ICT:Master:42
+118:Jeanette:10/25/1953:Staten Island:SA:Master:43
+119:Thomas:2/9/1957:Jarbidge:RE:Master:39
+120:Zachary:8/20/1965:Greensboro:MSN:Master:36
+121:Charles:11/15/1965:Danielson:RE:Professor:27
+122:Cassandra:5/9/1950:Miami:BIO:PhD:46
+123:Joan:8/18/1955:Stamford:SA:Professor:28
+124:Nancy:10/24/1955:Durham:WEO:Master:28
+125:Tracey:11/20/1964:Stockton:SA:PhD:43
+126:Kimberly:4/15/1957:Livonia:ICT:Master:46
+127:Janice:7/1/1967:Carmi:WEO:Master:26
+128:Donnie:5/4/1951:Salt Lake City:ICT:Professor:37
+129:Victor:5/5/1961:Pullman:RE:Professor:41
+130:Kathleen:5/29/1965:Nash:BIO:Professor:27
+131:Gregory:7/26/1967:Eden Prairie:SA:Professor:25
+132:Benjamin:8/1/1968:Potosi:BIO:Professor:24
+133:Karen:10/24/1965:Severna Park:RE:Professor:28
+134:Patricia:4/4/1970:Santa Barbara:BIO:PhD:30
+135:Virginia:4/1/1951:Lufkin:MSN:Master:47
+136:Richard:5/11/1969:Bloomsburg:WEO:Master:24
+137:Larry:3/16/1966:Irvine:ICT:Master:38
+138:Kimberly:7/30/1964:Nampa:WEO:PhD:20
+139:Lyndon:9/20/1956:Ronkonkoma:BIO:Master:44
+140:Vera:1/15/1954:Hanover Township:WEO:Professor:32
+141:Dana:6/3/1956:Atlanta:WEO:Master:27
+142:Billy:5/25/1966:Forest Grove:WEO:Master:46
+143:Virginia:1/21/1952:Irving:RE:PhD:47
+144:Raul:11/8/1959:Detroit:SA:Professor:36
+145:Carol:4/22/1964:Southfield:RE:Professor:46
+146:Alexandra:10/3/1955:Vernon:MSN:Master:39
+147:Shawn:9/16/1971:Stockton:BIO:Professor:44
+148:Jessica:3/18/1966:Ontario:WEO:Professor:30
+149:Laura:12/24/1956:Twin Falls:RE:Professor:21
+150:Jerri:11/2/1954:South Lyon:RE:PhD:38
+151:Gregory:10/17/1959:Eagle Lake:BIO:Master:21
+152:Gene:8/16/1968:Marietta:MSN:Master:32
+153:Vivian:11/1/1963:Oakhurst:SA:Professor:28
+154:Eddie:9/2/1958:Pontiac:BIO:Master:45
+155:Patricia:11/1/1971:King Of Prussia:MSN:PhD:41
+156:Peter:6/9/1950:Nashua:MSN:Professor:21
+157:Gordon:4/18/1963:Gore:ICT:PhD:44
+158:Lan:2/13/1968:Grand Gorge:ICT:Professor:32
+159:Aisha:5/19/1965:Norton:SA:Professor:50
+160:Donna:4/30/1956:Dedham:ICT:PhD:43
+161:Shizue:7/23/1957:Rocky Mount:ICT:Master:34
+162:Julia:5/18/1970:Farmersville:MSN:PhD:36
+163:Barbara:9/20/1967:Buffalo:SA:Master:44
+164:Michell:2/13/1972:Camden Lugoff:WEO:Professor:47
+165:Evelyn:2/21/1951:Indian:BIO:Professor:20
+166:Brain:6/7/1956:Biloxi:WEO:PhD:39
+167:Rodney:4/9/1969:Miller City:ICT:Master:28
+168:Robert:11/20/1952:Irvine:WEO:Professor:28
+169:Agnes:5/14/1958:Oklahoma City:RE:Master:21
+170:Willie:11/3/1955:Madison:BIO:PhD:40
+171:Astrid:7/28/1950:Temple:SA:PhD:48
+172:Lola:8/26/1959:Portland:ICT:Master:44
+173:Lena:9/16/1958:Virginia Beach:WEO:Professor:47
+174:Elizabeth:9/26/1954:Minneapolis:SA:Master:35
+175:Jason:2/11/1953:Chicago:WEO:PhD:30
+176:Frank:5/15/1965:Topeka:SA:Professor:25
+177:Natasha:9/25/1956:Laredo:RE:PhD:31
+178:Jessica:2/22/1967:Peculiar:RE:PhD:30
+179:Helen:1/25/1971:Rentz:BIO:PhD:44
+180:Susan:7/18/1957:Phoenix:ICT:Master:32
+181:Todd:11/20/1962:Hyrum:ICT:Master:30
+182:Joseph:6/16/1965:Baytown:MSN:Master:28
+183:Essie:8/26/1966:Dallas:SA:PhD:38
+184:Ann:7/2/1963:Woodfords:ICT:Master:50
+185:Florence:4/29/1964:Englewood:MSN:Master:35
+186:Christine:3/8/1958:Worcester:BIO:Master:20
+187:Andrew:9/7/1970:Fountain Run:WEO:Master:47
+188:Robert:4/10/1966:Champaign:ICT:Professor:38
+189:Lynn:5/13/1951:Los Angeles:RE:Professor:49
+190:Salvatore:10/10/1965:Augusta:MSN:Professor:48
+191:Mathew:2/2/1962:Reno:SA:Professor:41
+192:Dana:7/16/1960:Riverside:SA:Master:27
+193:Charlene:12/26/1959:Monterey:ICT:Professor:45
+194:Jolene:2/12/1960:Boca Raton:SA:PhD:47
+195:Edna:11/5/1957:Little Chute:SA:Master:30
+196:Barry:1/26/1951:Houston:SA:Master:44
+197:Rusty:12/14/1958:New Brunswick:ICT:Master:47
+198:Steven:8/3/1959:Gibsonia:WEO:Professor:26
+199:Lynette:8/18/1963:Irvine:BIO:Master:25
+200:Felicia:4/24/1962:Cincinnati:SA:Master:33
+201:Edward:3/26/1961:Los Angeles:SA:Professor:32
+202:Stephanie:8/8/1951:Indianapolis:RE:PhD:47
+203:Heidi:12/21/1964:San Francisco:WEO:Professor:30
+204:Loretta:1/19/1951:Briarwood:SA:Professor:29
+205:Fred:9/9/1952:Anchorage:SA:PhD:41
+206:Jewell:7/4/1969:West Hartford:BIO:PhD:50
+207:Eleanor:3/31/1958:Norwalk:WEO:Professor:21
+208:Gary:6/15/1958:Torrington:BIO:Professor:38
+209:Don:9/12/1960:Rensselaer:SA:Professor:33
+210:Morris:1/18/1955:Valley Lee:SA:PhD:29
+211:Robert:1/26/1961:Los Angeles:BIO:Master:26
+212:Claudia:5/15/1951:Perry:BIO:Professor:31
+213:Roberto:3/21/1964:Shelbyville:WEO:PhD:22
+214:Marie:5/2/1956:Hickory Hills:BIO:Professor:27
+215:Brian:4/12/1950:Datil:WEO:Master:48
+216:Dennis:1/5/1972:Stlouis:MSN:Professor:40
+217:Patrick:3/4/1956:Birmingham:RE:PhD:50
+218:Valorie:4/7/1953:Omaha:WEO:Master:42
+219:Harry:10/3/1966:Northampton:BIO:Master:39
+220:Deena:9/9/1971:Houston:ICT:Master:40
+221:Jose:1/25/1964:Bohemia:SA:Professor:50
+222:Charlene:4/13/1960:Southfield:WEO:PhD:31
+223:Joshua:3/22/1966:Houston:WEO:Master:31
+224:Martha:4/30/1963:Attica:MSN:PhD:48
+225:Kevin:7/16/1971:West Des Moines:SA:Professor:46
+226:Latonya:11/11/1971:Norfolk:MSN:PhD:25
+227:Alice:3/30/1969:Rahway:MSN:Master:20
+228:Cheryl:5/9/1960:Columbus:ICT:Professor:21
+229:Michelle:7/9/1972:Warfield:MSN:PhD:42
+230:Cora:4/16/1955:Harrisburg:MSN:Master:37
+231:Jessica:11/8/1950:Chicago:SA:Master:36
+232:Brenda:2/12/1963:Hartford:SA:PhD:45
+233:William:8/20/1955:Los Angeles:BIO:Master:40
+234:Corinne:8/31/1966:Mantua:ICT:Master:48
+235:Juanita:6/12/1951:Portland:ICT:Professor:46
+236:Herbert:4/22/1972:Syracuse:RE:Professor:32
+237:Jeremy:11/26/1964:Indianapolis:RE:Professor:22
+238:Fred:2/16/1958:Milwaukee:WEO:Master:24
+239:Kenneth:2/7/1963:Lake Buena Vista:WEO:Master:29
+240:Sonia:7/3/1959:New York:ICT:PhD:44
+241:Darci:6/2/1956:Burdett:BIO:PhD:28
+242:Kari:1/8/1973:Almont:WEO:PhD:36
+243:Samuel:1/17/1968:Port Orange:WEO:Master:30
+244:Johnny:8/12/1970:Raleigh:SA:Professor:26
+245:Rudolph:5/30/1960:Miami:SA:Master:23
+246:Amy:5/3/1958:Yates Center:ICT:Master:29
+247:Mary:1/23/1972:Point A La Hache:ICT:PhD:48
+248:Patty:12/28/1958:Albuquerque:ICT:Professor:28
+249:Maria:8/24/1966:Mount Pleasant:MSN:PhD:30
+250:Francesca:5/22/1964:La Mesa:ICT:PhD:23
+251:Arlinda:9/2/1957:Big Canoe  Dawson:RE:Professor:40
+252:Noreen:2/8/1964:Rockford:ICT:Master:40
+253:Deborah:5/9/1970:Concord:BIO:Professor:20
+254:Ethel:10/27/1961:Bradford:WEO:Professor:50
+255:Oscar:3/16/1950:Farmers Branch:MSN:PhD:35
+256:Nancy:9/30/1955:Mcallen:RE:Master:37
+257:Ramona:6/10/1963:Rochester:WEO:PhD:37
+258:John:5/2/1961:Conroe:MSN:PhD:42
+259:Francisco:10/19/1954:Lewisberry:SA:Master:25
+260:Peggy:3/18/1967:Miami:BIO:PhD:49
+261:Michael:8/13/1955:Tulsa:BIO:Professor:22
+262:Kenneth:4/9/1957:Alexandria:ICT:Professor:47
+263:Justin:11/28/1951:Chicago:BIO:PhD:33
+264:Evelyn:1/21/1952:Lexington:MSN:PhD:36
+265:Peggy:6/25/1951:Goleta:SA:Professor:45
+266:Linda:12/21/1952:Oklahoma City:ICT:Master:27
+267:Mark:6/28/1969:Stroudsburg:RE:Professor:30
+268:Ralph:8/2/1971:La Mesa:ICT:Master:22
+269:Donald:5/6/1957:Mesa Verde National:BIO:Master:34
+270:Pamela:7/21/1971:Coeur D Alene:BIO:Professor:35
+271:Ricardo:6/3/1962:Revere:ICT:Professor:27
+272:Joy:4/27/1954:Sand Lake:MSN:Master:25
+273:Judy:11/2/1950:Creswell:SA:PhD:47
+274:Kevin:7/18/1953:Salt Lake City:SA:Professor:45
+275:Michael:6/8/1967:Philadelphia:MSN:Master:34
+276:Blanche:7/29/1965:Anaheim:RE:Master:22
+277:Linda:8/25/1970:Fort Wayne:WEO:Professor:29
+278:Nicholas:11/30/1965:Mansfield:BIO:Professor:49
+279:John:4/10/1970:Ash Mountain:RE:Professor:28
+280:Iliana:7/18/1968:Pompano Beach:RE:Master:33
+281:Clarence:10/6/1952:San Angelo:ICT:PhD:40
+282:Wesley:8/24/1950:Marquette:BIO:Master:32
+283:Margaret:10/11/1956:Fort Lauderdale:WEO:Professor:45
+284:Jenelle:8/8/1952:Independence:MSN:PhD:37
+285:Christopher:12/2/1959:Port Lavaca:SA:PhD:47
+286:Katy:4/8/1958:Portland:SA:Professor:31
+287:Joseph:7/28/1961:Maple Valley:RE:Professor:43
+288:Dorthy:3/10/1965:Baton Rouge:MSN:PhD:40
+289:Fannie:1/4/1968:Saint Louis:BIO:Professor:50
+290:George:11/23/1965:Marquette:WEO:Master:25
+291:Sharon:8/4/1968:Beachwood:ICT:Master:47
+292:Edward:10/19/1967:Ottawa:RE:Master:25
+293:Charles:7/3/1971:Ann Arbor:RE:Master:45
+294:Robert:3/1/1972:Algona:SA:Professor:47
+295:Theresa:11/10/1964:Randle:BIO:Master:27
+296:Tamika:9/3/1967:New Waverly:WEO:Professor:48
+297:Wilma:2/16/1959:Garden City:ICT:Professor:37
+298:Julie:1/6/1963:Orlando:BIO:PhD:49
+299:Curtis:8/16/1970:Madison:BIO:Professor:27
+300:Lanny:1/30/1961:Honolulu:BIO:Master:36
+301:Andrew:1/5/1972:Denver:WEO:Professor:43
+302:Edith:2/20/1958:Byron:WEO:Professor:21
+303:Thelma:12/21/1968:Marquette:ICT:PhD:39
+304:Micheal:9/21/1950:Hartford:BIO:Master:49
+305:Earl:1/31/1965:Bensalem:ICT:PhD:24
+306:Lana:7/30/1972:New York:ICT:PhD:21
+307:Larry:8/14/1967:Chicopee:SA:Professor:48
+308:Shalonda:4/9/1972:Sharon:MSN:PhD:35
+309:Mildred:1/7/1971:Hickory Hills:SA:Master:32
+310:Burt:3/4/1960:Indianapolis:WEO:Professor:43
+311:Mark:5/19/1965:Dayton:WEO:Professor:37
+312:Patricia:10/7/1967:Boardman:MSN:Master:45
+313:Lindsay:8/7/1961:Jersey City:BIO:Professor:26
+314:Michelle:5/18/1958:Hickory:WEO:PhD:45
+315:Alvin:9/3/1961:Sebree:BIO:PhD:49
+316:Quintin:3/24/1967:Golden Valley:RE:PhD:39
+317:Doris:7/2/1960:Jacksonville:RE:Professor:20
+318:Richard:7/17/1971:Denver:SA:Master:28
+319:Carroll:4/28/1950:Austin:SA:Master:27
+320:Nora:12/11/1965:Jersey City:MSN:Professor:42
+321:Syreeta:10/30/1954:Tuscaloosa:RE:Master:36
+322:Charles:5/24/1950:Genoa:ICT:Master:50
+323:Mayme:7/25/1967:Enfield:ICT:Professor:49
+324:Joyce:12/16/1954:Albany:SA:PhD:26
+325:Alan:12/27/1962:Chicago:WEO:PhD:40
+326:Charles:8/5/1960:Beverly Hills:SA:Master:27
+327:Tanisha:11/5/1970:Bakersfield:MSN:Professor:47
+328:William:10/5/1959:Santa Ana:RE:Professor:35
+329:Deloris:5/2/1961:Berkeley:WEO:PhD:24
+330:Jennifer:12/14/1969:Kalamazoo:ICT:PhD:36
+331:Sabina:8/25/1951:Chula Vista:ICT:Master:25
+332:Lydia:5/24/1961:Dallas:RE:Professor:31
+333:William:8/17/1952:Rocky Mount:WEO:PhD:24
+334:Christian:2/12/1971:Livingston:WEO:Master:22
+335:Daniel:9/27/1965:Utica:MSN:Professor:44
+336:Shawn:6/20/1959:Baltimore:MSN:Master:31
+337:Heidi:12/28/1956:North Fork:WEO:Professor:26
+338:Michael:4/10/1967:Providence:ICT:Master:25
+339:Andrew:7/12/1951:Tulsa:RE:Master:48
+340:James:7/25/1962:Worcester:ICT:PhD:47
+341:Myrtle:10/23/1964:Westerville:RE:Professor:28
+342:Eugene:4/29/1962:Grand Rapids:RE:Master:39
+343:Angela:8/2/1952:Wayne:RE:Master:36
+344:Laurie:2/28/1970:Houston:ICT:Professor:23
+345:Celeste:9/22/1958:Mobile:WEO:Master:33
+346:Jamie:10/12/1960:Fresno:BIO:Professor:38
+347:Audrey:3/7/1971:Ocala:SA:PhD:41
+348:Dawn:1/21/1963:Fremont:ICT:Master:34
+349:Ernest:11/25/1953:East Lansing:WEO:Professor:34
+350:Jimmy:12/24/1951:Nashville:RE:Professor:33
+351:Robert:4/17/1955:Fredericksburg:BIO:Professor:20
+352:Gordon:12/17/1957:Fresno:ICT:Professor:48
+353:John:12/14/1950:Pittsburgh:RE:PhD:49
+354:Adele:9/4/1955:Lake Charles:RE:Master:49
+355:Verna:3/23/1956:Jackson Center:MSN:Master:40
+356:Roberta:10/30/1954:Woburn:BIO:Professor:49
+357:Ashley:1/18/1968:New York:MSN:Master:30
+358:Katie:3/31/1957:New York:RE:PhD:42
+359:Richard:3/1/1973:Nederland:RE:PhD:26
+360:Michael:1/31/1959:Stockton:BIO:PhD:26
+361:Jo:2/5/1970:Mckenney:MSN:PhD:32
+362:Mary:10/28/1971:Fullerton:SA:PhD:50
+363:Charles:7/2/1961:Linden:SA:PhD:21
+364:Rodney:9/6/1957:Bloomfield:BIO:Master:37
+365:Fredrick:6/18/1961:Toledo:WEO:Professor:48
+366:Peggy:8/13/1954:Austin:MSN:Master:45
+367:Lawrence:5/4/1956:Oakland:SA:Professor:28
+368:Daniel:1/29/1962:Scranton:ICT:PhD:38
+369:Robert:9/27/1959:Rusk:RE:PhD:20
+370:John:9/21/1953:Coral Springs:RE:PhD:48
+371:Anna:12/3/1972:Crystal:BIO:Professor:25
+372:Jennifer:4/28/1956:Jonesboro:WEO:Professor:47
+373:Marita:12/26/1960:Chuathbaluk:BIO:Professor:23
+374:William:1/15/1960:Bethel:MSN:Master:41
+375:Mark:9/13/1955:Sonora:MSN:Professor:47
+376:Juan:12/5/1965:Framingham:SA:Master:45
+377:Juana:9/23/1950:Macon:ICT:Master:40
+378:Ed:2/23/1960:Peoria:BIO:Master:26
+379:Edna:11/16/1953:Yermo:ICT:PhD:44
+380:Ruth:12/12/1957:Jamaica:RE:Professor:28
+381:Rose:3/10/1958:Buffalo:BIO:PhD:24
+382:Stella:4/29/1963:Plano:ICT:Master:35
+383:Marlene:12/16/1965:Hatboro:SA:Master:48
+384:Tasha:12/4/1963:Moorestown:MSN:Master:28
+385:Barbara:3/9/1973:Conroe:WEO:Master:25
+386:Norman:11/27/1954:Cincinnati:BIO:PhD:48
+387:William:1/19/1954:Plano:SA:Master:46
+388:Herschel:4/10/1970:Saginaw:RE:Professor:37
+389:Kristi:2/2/1973:Tonawanda:ICT:Professor:21
+390:Carmen:9/25/1968:Tigerton:BIO:PhD:45
+391:Terry:10/27/1967:Pine Bluff:WEO:Professor:43
+392:Heather:9/16/1970:Grand Rapids:WEO:Professor:24
+393:Betty:1/28/1954:New York:ICT:PhD:40
+394:Donald:12/2/1962:Hartford:WEO:PhD:43
+395:Gary:12/6/1954:Eagleville:MSN:Professor:40
+396:Morgan:8/6/1961:Orlando:ICT:PhD:41
+397:Paul:8/11/1954:Newark:WEO:Master:29
+398:Mildred:8/24/1970:Redmond:WEO:Professor:25
+399:Stan:8/18/1959:Funk:MSN:Master:32
+400:Cynthia:2/10/1965:Chicago:MSN:Master:29
+401:Rosetta:1/10/1968:Harrisburg:MSN:Master:31
+402:Oscar:9/7/1971:Miami:BIO:PhD:25
+403:Sandra:7/4/1951:Louisville:SA:Professor:22
+404:Joshua:11/16/1958:West Valley City:BIO:Master:29
+405:Lottie:7/22/1970:Union City:MSN:PhD:28
+406:Mary:6/18/1966:Winder:RE:Professor:44
+407:Catherine:10/15/1954:Reading:BIO:Professor:23
+408:Sean:12/28/1972:Salt Lake City:SA:PhD:33
+409:Marcus:11/5/1950:Taylorsville:SA:PhD:34
+410:Robert:10/18/1967:Shirley:WEO:PhD:32
+411:Debra:12/3/1951:Grattan:SA:PhD:44
+412:Melissa:11/9/1963:Roseville:MSN:Master:26
+413:David:9/27/1965:Corpus Christi:BIO:Master:27
+414:Odessa:5/15/1957:Metairie:BIO:Professor:43
+415:Joey:6/18/1957:Greensboro:BIO:PhD:39
+416:Janis:8/13/1969:Salina:WEO:Master:22
+417:Guadalupe:1/17/1960:Kirkwood:ICT:Professor:39
+418:Jason:2/3/1959:Pikeville:RE:Professor:33
+419:Gennie:12/8/1953:San Jose:RE:Master:49
+420:John:5/7/1965:Washington:RE:Professor:39
+421:Lawrence:6/12/1959:Murfreesboro:ICT:Professor:24
+422:Kenneth:5/24/1958:Centerville:ICT:PhD:46
+423:Ramon:7/4/1966:Santa Ana:WEO:PhD:45
+424:Herschel:2/25/1957:Johnstown:BIO:Professor:20
+425:Donald:10/13/1962:Flint:BIO:Master:50
+426:Mary:11/12/1952:Bath:SA:Master:25
+427:Addie:9/3/1970:Columbus:MSN:PhD:31
+428:Bradford:12/9/1967:Enid:RE:PhD:33
+429:Maria:8/10/1961:Winston Salem:SA:PhD:37
+430:Brenda:6/1/1970:Reno:BIO:Professor:39
+431:Hilda:2/8/1967:Saint Louis:WEO:Master:37
+432:Leona:2/22/1951:New York:BIO:Professor:40
+433:Jason:3/2/1952:Lawrence:SA:Professor:49
+434:Bridget:11/20/1970:Coon Rapids:BIO:Master:25
+435:Joan:12/5/1968:Richmond:WEO:PhD:20
+436:Linda:11/9/1972:Southfield:MSN:Professor:41
+437:Lindsey:1/27/1968:Upper Arlington:RE:Professor:20
+438:Nathan:6/1/1957:Hattiesburg:RE:Master:23
+439:Tena:10/20/1956:Grand Rapids:SA:Master:38
+440:Daniel:9/16/1968:Metairie:SA:Professor:36
+441:Candice:8/28/1953:San Francisco:RE:Professor:29
+442:Kenneth:11/5/1960:Anchorage:BIO:Master:50
+443:Tamara:10/1/1952:Stanfield:SA:PhD:48
+444:Jason:10/26/1962:Capitol Heights:ICT:Professor:36
+445:Elaine:6/4/1962:Orlando:MSN:PhD:25
+446:Jim:12/31/1952:Portland:SA:Professor:21
+447:Cheri:1/31/1952:Naples:RE:PhD:27
+448:Emmett:2/11/1961:Austin:ICT:Professor:29
+449:Amanda:2/24/1952:Bethpage:ICT:PhD:37
+450:Alan:1/17/1965:New Albany:RE:Master:48
+451:Anita:3/8/1972:Clanton:WEO:Master:34
+452:Ricky:12/4/1962:Stamford:ICT:PhD:34
+453:Roberta:12/12/1954:Wichita Falls:RE:PhD:34
+454:Andrea:8/13/1962:Gardena:WEO:PhD:48
+455:Stanley:12/12/1969:Seattle:ICT:PhD:24
+456:Ryan:10/3/1957:New Brunswick:ICT:Professor:42
+457:Kevin:8/26/1953:Smyrna:ICT:Master:37
+458:Randy:8/31/1953:Bronx:MSN:Professor:20
+459:Ian:6/18/1964:Lacey:SA:Master:44
+460:June:10/16/1950:Springfield:BIO:Professor:37
+461:Jon:5/1/1952:Panama City:SA:Master:47
+462:Joseph:11/13/1959:Bear Valley:WEO:Master:36
+463:Sam:7/5/1969:Gresham:SA:Professor:37
+464:Anita:2/20/1960:Fort Kent:SA:PhD:29
+465:Elinor:7/23/1963:Pomona:SA:PhD:45
+466:Bryan:7/30/1967:Miami:SA:PhD:37
+467:George:1/3/1970:Skokie:SA:Professor:30
+468:Jack:12/3/1957:Parkersburg:RE:PhD:45
+469:Lori:3/12/1951:Boston:WEO:Professor:29
+470:Diane:5/12/1955:Greensboro:RE:PhD:31
+471:William:1/27/1971:Dalton:SA:Master:45
+472:Mark:4/11/1953:Harrisburg:MSN:PhD:48
+473:Mai:12/25/1963:Waianae:SA:Professor:31
+474:Jeffrey:5/6/1953:Philadelphia:WEO:Master:37
+475:Michele:9/17/1953:Hamburg:SA:Professor:40
+476:David:7/17/1971:Jacksonville:MSN:Master:25
+477:Kevin:10/15/1967:Brooklyn:BIO:Master:44
+478:Joshua:7/29/1950:Indianapolis:ICT:Master:34
+479:Monica:12/6/1970:Cambridge:MSN:PhD:46
+480:Ronald:8/27/1966:San Antonio:SA:PhD:39
+481:Olivia:5/18/1964:Newark:WEO:Master:48
+482:Ruby:3/18/1955:Washington:BIO:PhD:32
+483:Jo:1/16/1972:Moscow Mills:BIO:PhD:26
+484:Lucille:7/17/1957:Rio Vista:ICT:PhD:23
+485:Edward:5/26/1957:Detroit Lakes:ICT:Professor:38
+486:Guillermina:12/23/1966:Madison:BIO:Master:31
+487:Ella:10/6/1955:Marrero:MSN:Master:47
+488:Charles:2/6/1954:Houston:ICT:Master:25
+489:Steven:6/2/1968:Harrisburg:MSN:Master:33
+490:Richard:3/14/1968:Chicago:SA:Professor:26
+491:Alton:7/9/1961:Tampa:BIO:Professor:42
+492:George:11/5/1954:Newark:MSN:PhD:30
+493:Rachel:8/23/1960:Jackson:SA:Professor:33
+494:Kerry:11/14/1952:Los Angeles:RE:Master:30
+495:Betty:8/17/1961:Indianapolis:ICT:Professor:39
+496:Lourdes:5/3/1967:Lake Berryessa:SA:Professor:20
+497:Ronnie:9/26/1966:Belvidere:SA:Master:31
+498:Ernest:8/7/1962:Pottsville:MSN:PhD:31
+499:Christine:1/15/1965:Marion:ICT:Master:38
+500:June:3/6/1970:North Billerica:SA:Professor:30
+501:David:5/26/1971:Uhrichsville:BIO:PhD:40
+502:Pamela:8/14/1968:Chicago:MSN:Professor:44
+503:Joshua:10/9/1955:Rockmart:SA:PhD:22
+504:Rosalia:10/20/1960:Wardell Mayfair:ICT:Professor:23
+505:Richard:8/6/1953:West Union:RE:Professor:50
+506:Robin:10/15/1953:Atlantic:SA:PhD:41
+507:Mary:9/25/1958:Savannah:MSN:Professor:23
+508:Curtis:6/27/1971:Decatur:SA:PhD:21
+509:Jacquline:1/19/1965:Greenwood:SA:Professor:37
+510:Shirley:8/26/1959:Leesburg:WEO:Master:48
+511:Donna:11/22/1965:Philadelphia:WEO:Master:48
+512:Dollie:7/5/1950:Kaplan:BIO:Master:37
+513:Sara:11/7/1953:Portland:ICT:Professor:37
+514:Anita:5/15/1950:Oakland:MSN:Professor:43
+515:Dave:11/24/1950:Everett:MSN:Master:44
+516:Lawrence:12/15/1963:Collegeville:ICT:Professor:31
+517:Abdul:3/3/1966:Minneapolis:RE:Master:28
+518:Janet:11/1/1971:South Pasadena:MSN:PhD:48
+519:Victor:12/24/1959:Jacksonville:SA:Professor:31
+520:Ida:2/25/1968:Rebecca:SA:Professor:28
+521:Jason:6/27/1971:Parkersburg:MSN:PhD:42
+522:Mark:1/4/1968:Dover:WEO:Master:30
+523:Bradley:3/10/1956:Skokie:BIO:Professor:47
+524:Lindsay:10/27/1968:Indianapolis:SA:Professor:25
+525:Brian:4/5/1951:Metairie:BIO:PhD:25
+526:Eldon:5/3/1954:Austin:ICT:Professor:32
+527:Zofia:12/8/1969:Dothan:ICT:Professor:45
+528:Cheryl:3/8/1959:Fort Worth:MSN:PhD:20
+529:Paul:10/14/1961:Wareham:RE:Professor:38
+530:Sharon:7/8/1963:Westland:WEO:Master:50
+531:Joseph:8/30/1950:Jameson:SA:Master:36
+532:Beverly:6/6/1950:Houston:RE:Master:24
+533:Timothy:4/9/1966:Maryland Heights:RE:PhD:27
+534:Clarence:10/21/1968:Carbondale:SA:Professor:37
+535:Cheryl:6/19/1968:Tigard:MSN:Master:29
+536:Milford:12/10/1958:Fresno:BIO:Professor:29
+537:William:12/24/1960:Baltimore:MSN:Professor:42
+538:Frank:1/26/1971:Frisco:SA:Professor:38
+539:Max:5/12/1959:Portland:WEO:PhD:42
+540:Virginia:1/13/1952:Detroit:BIO:Master:40
+541:Mary:9/14/1959:Suches:ICT:Professor:21
+542:Dione:1/24/1958:Shreveport:MSN:Master:25
+543:Curt:7/4/1964:Mcallen:MSN:PhD:43
+544:Bernie:3/5/1958:Brockway:ICT:PhD:38
+545:Cassie:1/8/1953:Sacramento:BIO:Professor:47
+546:Marshall:12/27/1955:Natural Bridge:MSN:Master:36
+547:Brian:11/15/1967:Arlington:WEO:PhD:23
+548:Marco:2/15/1957:Jupiter:RE:Master:37
+549:Rachel:6/11/1959:Fairview Heights:ICT:Professor:34
+550:Margaret:11/12/1967:Tukwila:MSN:PhD:24
+551:Laura:1/23/1967:Charlotte:SA:PhD:34
+552:Kelly:8/25/1957:Chicago:ICT:PhD:41
+553:Kevin:6/21/1958:Dorchester:MSN:Master:42
+554:Patsy:2/19/1961:Green Bay:BIO:Master:50
+555:Kimberly:12/22/1969:Southfield:BIO:Professor:25
+556:Carolyn:9/10/1971:Indianapolis:BIO:PhD:32
+557:Brian:12/18/1951:New York:MSN:Professor:42
+558:Jack:1/27/1962:Davenport:BIO:Professor:37
+559:Cesar:5/20/1959:Los Angeles:ICT:PhD:45
+560:Maria:1/1/1971:Cincinnati:WEO:Professor:21
+561:Robert:7/9/1953:Ocala:MSN:PhD:50
+562:David:1/31/1956:Houston:RE:Professor:26
+563:Daniel:1/26/1961:Selma:RE:Professor:44
+564:Curtis:5/16/1962:Kenton:ICT:PhD:37
+565:Amie:9/14/1971:Waynesboro:MSN:Master:22
+566:Donna:1/5/1953:Dover:RE:Master:38
+567:Courtney:4/22/1953:Shreveport:RE:PhD:39
+568:David:1/2/1972:Portland:RE:Professor:27
+569:Kevin:4/11/1963:Macon:WEO:Master:37
+570:Deana:12/22/1971:Muskegon Heights:RE:Master:45
+571:Trina:3/28/1953:Seattle:ICT:Master:46
+572:Lowell:12/20/1970:Plymouth:SA:Master:28
+573:Walter:6/10/1964:Oakland:RE:PhD:25
+574:Christian:1/19/1959:Louisville:SA:PhD:38
+575:Lisa:4/25/1953:Garrison:RE:Professor:47
+576:Shirly:12/25/1963:Phoenix:SA:Professor:37
+577:Jerald:5/2/1959:Charlotte:BIO:PhD:39
+578:Tina:2/2/1960:Kansas City:RE:Master:39
+579:Marcus:4/8/1968:Hattiesburg:RE:Master:21
+580:Patricia:11/5/1968:Norman:SA:Professor:21
+581:Michelle:5/7/1965:Alliance:SA:Master:35
+582:John:8/12/1964:Columbus:SA:Master:47
+583:Monica:3/17/1970:Orlando:WEO:PhD:23
+584:Sherry:6/12/1959:Ontario:MSN:Professor:23
+585:Robert:4/8/1962:Wichita:WEO:PhD:35
+586:Justine:5/6/1959:Roseville:ICT:Master:35
+587:Anthony:7/13/1964:San Diego:ICT:Professor:47
+588:Krystal:9/21/1969:Winston Salem:SA:Master:22
+589:Amanda:3/12/1962:Yakima:ICT:Professor:46
+590:Bessie:9/21/1963:Hattiesburg:SA:Master:21
+591:Joseph:6/25/1965:Forked Island:RE:Master:32
+592:Norma:10/20/1965:Seattle:MSN:Professor:44
+593:Dwight:11/6/1962:Nashville:MSN:Master:43
+594:Harold:7/20/1971:Saginaw:BIO:Master:21
+595:Rosa:3/1/1955:Grand Rapids:WEO:Professor:33
+596:Shirley:12/1/1969:Homer:BIO:Master:26
+597:Pamela:6/14/1972:Littleton:BIO:Master:43
+598:Joshua:5/9/1952:Houston:RE:Master:24
+599:Laura:3/7/1966:Westerville:SA:Master:37
+600:Stephen:6/3/1961:Lumberton:WEO:Professor:45
+601:Delores:6/7/1956:Abilene:SA:Professor:29
+602:Jessica:1/11/1962:San Jose:MSN:PhD:32
+603:Sarah:5/14/1963:Hankamer:MSN:Master:30
+604:Anthony:7/23/1952:Indianapolis:WEO:Professor:35
+605:Sandra:9/18/1972:Mission:SA:Professor:28
+606:Carolyn:9/16/1960:Houston:BIO:PhD:27
+607:Barbara:9/18/1972:Dandridge:MSN:PhD:26
+608:Kay:12/7/1969:Houston:WEO:PhD:42
+609:Martha:12/4/1971:Kansas City:BIO:Professor:44
+610:Crystal:6/25/1967:Jacksonville:RE:Master:36
+611:Dewayne:8/24/1961:Edison:RE:PhD:40
+612:Carl:2/16/1951:Bohemia:ICT:PhD:27
+613:Kevin:5/6/1967:San Francisco:ICT:Professor:47
+614:Helen:1/1/1951:Baton Rouge:BIO:PhD:38
+615:Elizabeth:8/21/1958:West Allis:BIO:Master:23
+616:Jeffrey:5/12/1972:Washington:MSN:PhD:36
+617:Charles:11/23/1964:Hinckley:BIO:Master:47
+618:Marcia:9/27/1952:Houston:RE:Master:25
+619:Annette:10/9/1950:Riverside:WEO:Professor:50
+620:Arthur:4/20/1965:San Diego:ICT:Professor:25
+621:Sandra:12/31/1965:Houston:BIO:Master:31
+622:Charles:12/3/1950:Kannapolis:ICT:PhD:29
+623:Jamie:8/2/1971:Stetson:BIO:Professor:46
+624:Stephen:9/16/1952:Malden:RE:Master:50
+625:Kimberly:4/25/1955:Woolrich:ICT:Master:46
+626:Sharon:5/28/1969:Salt Lake City:SA:Master:47
+627:Lorraine:3/31/1958:Fremont:WEO:PhD:27
+628:Brenda:8/31/1963:Scranton:BIO:PhD:21
+629:Carie:6/8/1965:Boise:RE:PhD:45
+630:Donna:6/30/1960:Richfield:SA:PhD:22
+631:Geraldine:8/27/1952:Merrill:BIO:Professor:41
+632:Ronnie:10/2/1959:Davenport:RE:PhD:22
+633:Charles:2/8/1966:Eugene:WEO:PhD:36
+634:Robert:9/28/1957:Loveland:WEO:Professor:28
+635:Christina:4/5/1969:Peoria:ICT:Professor:31
+636:Jonathon:1/24/1971:Mira Loma:RE:Professor:30
+637:James:10/21/1956:Saginaw:RE:PhD:20
+638:Elizabeth:6/2/1965:Indianapolis:ICT:Professor:25
+639:Donald:12/30/1972:San Diego:BIO:PhD:22
+640:Michelle:9/13/1960:Columbia:SA:PhD:42
+641:Christina:12/24/1954:Augusta:ICT:Master:42
+642:Jacob:4/16/1959:Hartford:SA:PhD:45
+643:Martin:3/10/1951:Chicago:RE:Master:34
+644:Jose:11/20/1955:Silver Spring:ICT:Master:36
+645:Stephen:8/17/1971:Houston:RE:Master:32
+646:Kevin:9/30/1971:Rhinebeck:MSN:Master:26
+647:Deborah:10/21/1950:Cambridge:BIO:PhD:46
+648:Jana:10/20/1952:Chesapeake:BIO:Professor:37
+649:Geneva:3/3/1959:Saint Louis:ICT:Master:31
+650:James:11/21/1950:Fort Wayne:BIO:Master:29
+651:Brian:4/25/1957:San Jose:ICT:PhD:24
+652:Ron:4/6/1964:Red Oak:MSN:PhD:48
+653:Frances:9/30/1953:Atlanta:RE:PhD:46
+654:Fred:8/27/1951:Plantation:ICT:PhD:25
+655:Clifton:6/21/1966:North Greenbush:ICT:Master:23
+656:Louise:6/19/1972:Appleton:BIO:Master:45
+657:Gail:4/1/1971:Los Angeles:MSN:Master:24
+658:Edward:4/22/1965:Elk Grove Village:RE:Master:27
+659:Dorothy:3/31/1970:Lincoln:BIO:Master:49
+660:Marcia:7/17/1956:New York:BIO:PhD:47
+661:Angelic:7/20/1955:Fair Oaks:RE:Master:22
+662:John:3/12/1964:Shaker Heights:RE:Master:40
+663:Shelia:10/15/1970:Coeur D Alene:MSN:PhD:21
+664:Richard:8/25/1956:Dallas:WEO:PhD:31
+665:Jeff:8/16/1965:San Francisco:WEO:Master:41
+666:Rudolph:10/24/1955:Virginia Beach:WEO:PhD:44
+667:Kathryn:10/13/1964:Midland:WEO:Master:33
+668:Harold:4/15/1954:Dayton:BIO:Master:33
+669:Walter:5/29/1955:Warren:RE:Professor:46
+670:Franklin:5/14/1963:Battle Creek:RE:Professor:40
+671:Floyd:1/10/1959:Minooka:ICT:PhD:33
+672:Stephanie:4/7/1954:Fayette:MSN:PhD:39
+673:Elizabeth:11/25/1972:Washington:WEO:Master:35
+674:Mark:11/22/1951:Phoenix:MSN:PhD:48
+675:Randall:2/22/1969:El Paso:SA:Professor:33
+676:Dario:7/8/1950:Scott City:ICT:Master:33
+677:Jerry:3/21/1957:Ithaca:SA:PhD:50
+678:Marilyn:8/10/1955:Hays:BIO:PhD:46
+679:Christine:4/5/1953:Syracuse:RE:Professor:36
+680:Jessica:12/5/1972:Hattiesburg:WEO:Master:28
+681:Mirna:11/2/1970:Kosciusko:SA:Master:37
+682:Dona:8/10/1970:Minneapolis:SA:PhD:39
+683:Glenda:4/30/1957:Dayton:SA:PhD:35
+684:Susannah:5/12/1950:Mission Viejo:RE:PhD:41
+685:Edward:10/18/1967:San Francisco:BIO:Master:47
+686:Kristin:2/14/1968:Coral Gables:SA:Professor:35
+687:Myrtle:3/27/1963:South Boston:ICT:PhD:30
+688:Deborah:12/18/1957:Snellville:RE:Master:40
+689:Lani:5/6/1966:Jersey City:WEO:PhD:50
+690:Ruby:2/24/1969:Madison:MSN:PhD:25
+691:Joe:11/19/1970:Pacifica:ICT:Professor:49
+692:Adam:3/12/1967:West Palm Beach:BIO:Professor:47
+693:Charles:7/9/1955:Fairfield:ICT:Master:21
+694:Herbert:9/30/1958:Asheville:BIO:Master:43
+695:Lillian:10/22/1970:Duluth:BIO:PhD:23
+696:Thomas:2/2/1956:La Porte:SA:Professor:47
+697:Anthony:11/3/1960:Baton Rouge:BIO:Master:43
+698:Patrick:12/14/1959:New York:RE:PhD:24
+699:Marilyn:4/26/1951:Urich:SA:PhD:27
+700:Katie:3/3/1971:San Francisco:BIO:Professor:24
+701:Charles:11/7/1951:Pulaski:BIO:Master:27
+702:Sandy:7/28/1970:Chattanooga:BIO:Master:23
+703:William:1/7/1952:Bristol:BIO:Professor:49
+704:Ana:4/6/1951:Springfield:RE:Master:34
+705:Philip:11/21/1965:Colorado Springs:MSN:Professor:39
+706:Alene:7/5/1957:Huntington:ICT:PhD:50
+707:Brandon:3/10/1966:Dallas:MSN:Professor:24
+708:Ali:9/7/1961:El Cajon:MSN:PhD:35
+709:Leon:8/29/1958:San Angelo:RE:PhD:33
+710:Maxine:1/18/1952:Arlington:BIO:PhD:22
+711:Henry:2/13/1967:Queens:WEO:Master:32
+712:Oscar:5/7/1956:New York:RE:Master:48
+713:Colleen:10/6/1964:Pennsauken:RE:PhD:25
+714:Jose:11/1/1953:Oklahoma City:BIO:Professor:41
+715:Richard:10/7/1971:Denver:SA:Professor:29
+716:Michael:6/26/1970:Oklahoma City:SA:Professor:23
+717:Leo:3/16/1965:Coshocton:BIO:PhD:27
+718:Mary:12/21/1951:Grand Prairie:MSN:PhD:26
+719:Brenda:10/11/1954:Portland:RE:PhD:42
+720:Bernice:9/10/1953:Waukon:RE:Professor:37
+721:Clara:5/19/1966:Warminster:ICT:PhD:44
+722:Howard:10/10/1961:Houston:RE:Master:40
+723:Raymond:6/2/1952:Marion:MSN:Professor:50
+724:Joseph:9/24/1952:Santa Cruz:SA:Professor:50
+725:Tamie:4/26/1964:Palm Springs:RE:Master:26
+726:Amanda:9/19/1964:Northbrook:BIO:Master:31
+727:Celia:12/17/1959:Gainesville:BIO:Professor:44
+728:Gerald:6/30/1960:Fresno:ICT:Master:39
+729:David:1/7/1964:Albuquerque:BIO:Professor:35
+730:Mary:10/15/1961:Atlanta:BIO:Professor:22
+731:Daniel:10/12/1966:San Antonio:SA:Master:49
+732:Joyce:1/8/1963:Penns Neck:WEO:Master:46
+733:Hazel:3/14/1969:Williamsport:RE:PhD:21
+734:Harry:10/11/1964:Green Bay:WEO:Master:36
+735:Carolyn:11/11/1959:New Haven:BIO:PhD:36
+736:Stephanie:5/17/1968:Ogdensburg:ICT:PhD:31
+737:Lisa:6/11/1964:Sibley:MSN:Professor:28
+738:Robert:12/18/1951:Johnstown:SA:PhD:50
+739:Timothy:3/7/1960:Augusta:RE:PhD:43
+740:Joshua:9/15/1972:Lincoln:RE:PhD:38
+741:Herman:7/4/1965:Newark:WEO:Master:33
+742:Carolyn:8/18/1952:Idaho:SA:Master:21
+743:Edith:7/9/1966:Rochester:ICT:Master:48
+744:Robert:9/14/1953:Okemos:ICT:Professor:34
+745:Wilma:1/2/1951:Santa Ana:ICT:Professor:22
+746:Mike:5/2/1965:Torrance:MSN:PhD:21
+747:Glen:11/21/1971:San Diego:RE:Professor:45
+748:Richard:2/5/1958:Sterling:WEO:Professor:46
+749:George:12/20/1963:Perrine:MSN:PhD:39
+750:Rebecca:4/1/1952:Tallahassee:WEO:Master:21
+751:Mark:4/6/1960:Louisville:BIO:Master:22
+752:Ruth:12/2/1963:Washington:MSN:Professor:27
+753:Mark:8/7/1952:Virginia Beach:ICT:PhD:48
+754:Delia:8/1/1954:Silver Spring:SA:Master:27
+755:Angeline:12/8/1961:Mobile:MSN:PhD:23
+756:Noemi:5/29/1963:Lake Oswego:BIO:Master:42
+757:Douglas:1/8/1952:Blue Ash:RE:Professor:47
+758:Eric:8/30/1959:Lancaster:SA:Professor:32
+759:Stuart:11/23/1952:Fort Smith:BIO:Professor:48
+760:Edith:7/17/1951:Philadelphia:BIO:PhD:20
+761:Rose:9/24/1966:Lubbock:WEO:Professor:30
+762:Alma:6/7/1964:Poughkeepsie:WEO:PhD:49
+763:Tonya:12/9/1959:Detroit:RE:Master:43
+764:Janice:3/4/1965:Saint Louis:SA:Master:40
+765:Dorothy:8/15/1969:Seguin:MSN:Master:49
+766:Becky:3/14/1956:Paso Robles:ICT:Professor:37
+767:Angela:4/13/1972:Springfield:SA:Master:24
+768:Dale:10/21/1972:Los Angeles:ICT:Master:45
+769:Jeremy:12/7/1950:Parsons:RE:Master:37
+770:Anthony:5/27/1966:Leroy:WEO:PhD:30
+771:Robert:11/18/1956:Cambridge:WEO:Master:50
+772:Jimmy:5/12/1960:Whitman:ICT:Professor:44
+773:Thelma:12/6/1965:Shakopee:WEO:PhD:22
+774:Robert:10/25/1955:Garden City:BIO:Professor:39
+775:Todd:6/3/1968:Hickory Hills:RE:Master:31
+776:Ma:12/8/1953:Miami:ICT:Professor:37
+777:Eddie:4/19/1952:Maryland Heights:ICT:PhD:21
+778:Pamela:5/10/1968:El Reno:SA:Master:38
+779:Frances:3/8/1956:Mount Vernon:WEO:Master:38
+780:Dana:2/25/1968:Baltimore:ICT:PhD:44
+781:Dennis:11/13/1964:Beltsville:WEO:PhD:35
+782:Lillian:6/29/1972:Piedmont:RE:PhD:46
+783:Frances:3/21/1960:Baltimore:WEO:Professor:25
+784:Geraldine:2/4/1969:Anniston:BIO:PhD:30
+785:Bryan:8/23/1961:Manhattan:MSN:PhD:31
+786:Susan:8/1/1953:Mamaroneck:RE:Professor:34
+787:Charles:10/30/1956:Columbus:ICT:Master:36
+788:Timothy:8/23/1955:Fort Myers:SA:PhD:24
+789:Michael:7/7/1972:Saint Louis:SA:Professor:45
+790:Judith:10/3/1968:Bensenville:BIO:Professor:49
+791:Bonnie:1/12/1964:Sylva:MSN:PhD:34
+792:David:4/13/1954:Troutville:MSN:Master:30
+793:Micheal:7/21/1955:Dobbs Ferry:WEO:PhD:34
+794:James:12/2/1959:Gary:BIO:Professor:24
+795:Joshua:10/10/1953:San Jose:RE:Professor:33
+796:Miguel:4/13/1959:Live Oak:ICT:PhD:47
+797:Imogene:11/22/1956:East Lansing:MSN:Professor:40
+798:Tyrone:11/5/1951:North Little Rock:WEO:Master:33
+799:Cecelia:9/12/1971:Houston:ICT:PhD:44
+800:Lillian:4/25/1953:Carnation:WEO:PhD:25
+801:Rhonda:8/10/1958:Columbus:BIO:Professor:39
+802:Michael:9/18/1960:Stamford:MSN:PhD:27
+803:Dewitt:10/5/1960:Huntington:RE:PhD:21
+804:Joseph:11/16/1964:Michigantown:MSN:PhD:25
+805:Christopher:4/29/1950:Dahlgren:ICT:PhD:33
+806:Brian:4/2/1950:Longview:BIO:Professor:49
+807:Michelle:7/9/1960:Wilmington:SA:Professor:50
+808:Roman:9/13/1965:Hugo:SA:Master:38
+809:James:10/10/1951:Sacramento:BIO:Professor:20
+810:Jodi:8/21/1958:Haysi:BIO:Professor:43
+811:Deborah:5/4/1963:Fairview Heights:WEO:Master:38
+812:Marcia:4/19/1961:Crittenden:WEO:Master:42
+813:Maggie:9/12/1963:New Haven:RE:Master:50
+814:Andrew:10/8/1952:Tampa:WEO:PhD:25
+815:Daniel:6/21/1963:Austin:MSN:Master:35
+816:Chantel:12/14/1972:Bloomington:MSN:PhD:32
+817:Randy:10/11/1967:Oxford:RE:Professor:41
+818:David:8/21/1958:Syracuse:SA:Professor:41
+819:Joanna:9/24/1961:Brooklyn:SA:PhD:27
+820:Albert:9/15/1962:Grand Rapids:SA:PhD:22
+821:William:5/6/1965:Torrance:RE:PhD:45
+822:Lucille:10/17/1953:Augusta:RE:Professor:33
+823:Daniel:6/14/1972:Barron:SA:Master:27
+824:David:10/11/1961:Beaumont:SA:Professor:21
+825:Gary:9/27/1956:Kalamazoo:RE:PhD:23
+826:Mark:6/21/1953:Kahlotus:SA:Professor:36
+827:Rafael:3/19/1955:De Forest:BIO:PhD:43
+828:Peter:10/12/1953:Bloomington:RE:PhD:27
+829:Julius:10/29/1970:Pulaski:BIO:PhD:39
+830:Willie:5/20/1951:San Augustine:ICT:PhD:43
+831:Lisa:12/8/1960:Freeport:ICT:Master:48
+832:Jerry:1/26/1963:El Paso:MSN:Master:35
+833:Hettie:12/7/1951:Irvine:MSN:PhD:35
+834:Patricia:9/24/1950:Amesbury:SA:PhD:22
+835:Loria:11/7/1968:Chicago:ICT:Professor:20
+836:Cecilia:2/24/1973:New York Mills:RE:Professor:34
+837:Raymond:11/20/1955:Como:ICT:Professor:29
+838:Amanda:5/14/1959:Lyndhurst:RE:Professor:41
+839:Robert:1/11/1951:Anacortes:MSN:Professor:34
+840:Ronnie:12/8/1962:Gainesville:WEO:Master:31
+841:Patricia:5/23/1963:New Berlin:RE:Master:37
+842:Betty:2/17/1965:Baton Rouge:ICT:PhD:26
+843:Shelly:12/17/1964:Rochester Hills:ICT:PhD:34
+844:Charles:6/1/1969:Forest City Rural:BIO:Professor:37
+845:Joyce:3/25/1965:Chattanooga:ICT:Master:23
+846:Mary:11/16/1971:State College:BIO:Professor:33
+847:Michael:1/23/1971:New Orleans:SA:Master:20
+848:Tina:9/23/1957:Tahlequah:SA:Professor:38
+849:Harold:2/28/1964:Phoenix:WEO:PhD:42
+850:Marilyn:10/29/1958:Tampico:SA:Master:50
+851:Shera:2/21/1960:Palatine:ICT:Professor:44
+852:Edith:4/4/1970:Saginaw:SA:Professor:33
+853:Jamaal:5/16/1957:Santa Monica:WEO:PhD:24
+854:Maricela:6/23/1959:Westbury:MSN:Master:29
+855:Marina:1/29/1957:Parkersburg:WEO:Master:26
+856:Scott:10/24/1955:Huntington Beach:SA:Professor:45
+857:William:2/23/1953:Milwaukee:RE:PhD:42
+858:David:3/4/1959:Saint Cloud:MSN:Master:22
+859:Rodney:1/1/1962:Hamptonville:SA:Professor:45
+860:Monty:12/18/1953:Northbrook:BIO:PhD:42
+861:Kimberly:5/22/1967:Macon:MSN:Professor:36
+862:Laurie:7/26/1971:Huntsville:WEO:Professor:43
+863:Lance:1/8/1961:Mount Carmel:MSN:PhD:41
+864:Randall:6/26/1961:Bloomington:MSN:Master:29
+865:Lester:9/11/1967:Urbandale:ICT:Professor:32
+866:Elsie:1/29/1961:Garfield Heights:ICT:Master:33
+867:Michael:11/18/1958:Little Rock:WEO:Master:23
+868:Charles:6/20/1953:Waipahu:RE:Professor:35
+869:Bridgette:2/19/1961:Washington:ICT:PhD:47
+870:Jonathan:3/6/1973:Las Vegas:BIO:Professor:30
+871:Michael:7/22/1972:Los Angeles:RE:Professor:31
+872:Paul:4/27/1967:New York:SA:PhD:38
+873:Morgan:11/4/1950:Chicago:SA:Professor:38
+874:Mary:9/28/1971:Kansas City:MSN:PhD:31
+875:Wilbert:3/18/1969:Galesburg:ICT:PhD:23
+876:Janet:9/12/1953:Oakland:WEO:PhD:42
+877:Juan:10/2/1952:North Olmsted:MSN:Master:33
+878:Michael:6/17/1964:Burr Ridge:BIO:Master:42
+879:Leticia:7/29/1968:San Francisco:SA:Master:31
+880:Stephanie:10/20/1969:Greenbelt:MSN:PhD:48
+881:Robin:3/31/1970:El Paso:SA:Master:42
+882:Gordon:1/27/1966:Bethlehem:RE:PhD:35
+883:Dewey:11/5/1952:Bethia:BIO:Professor:50
+884:Kim:9/2/1963:Worthington:RE:PhD:38
+885:Juanita:3/7/1958:Arlington:WEO:Professor:45
+886:Francisco:1/20/1957:Nashville:BIO:Professor:20
+887:Linda:12/29/1956:Mansfield:RE:PhD:39
+888:Eric:9/29/1969:Hebron:WEO:PhD:36
+889:Matilda:6/21/1957:Bend:WEO:Professor:39
+890:Craig:6/3/1965:Rocky Creek:SA:Master:47
+891:Miguel:10/15/1963:Centralia:ICT:PhD:38
+892:Roosevelt:2/11/1951:Doral:RE:Professor:24
+893:Morris:7/24/1958:Augusta:MSN:Professor:20
+894:Andrew:8/27/1958:West Palm Beach:RE:Master:49
+895:Timothy:9/19/1964:Wisconsin Rapids:SA:Master:23
+896:Lynette:7/16/1953:West Los Angeles:MSN:PhD:44
+897:Robin:5/5/1952:Churchville:WEO:PhD:29
+898:Keith:8/3/1965:Casper:MSN:Master:42
+899:Michael:4/20/1970:Charlotte:BIO:PhD:43
+900:David:7/23/1958:Austin:MSN:PhD:37
+901:Kathryn:5/2/1959:Alexandria:MSN:PhD:25
+902:Barbara:6/10/1972:Alexandria:WEO:Master:23
+903:Patrick:8/25/1961:Plainfield:MSN:PhD:46
+904:Amanda:11/11/1954:Scottsdale:WEO:Master:34
+905:David:4/11/1964:Mount Clemens:RE:PhD:28
+906:Dawn:4/5/1963:Camden:ICT:PhD:49
+907:Kenneth:8/6/1969:Westland:SA:Professor:42
+908:Francesco:2/28/1967:Denver:ICT:Professor:27
+909:Vickie:2/24/1958:Atlanta:SA:Professor:35
+910:John:4/6/1962:Foreston:ICT:PhD:31
+911:Francis:3/12/1956:San Francisco:SA:PhD:35
+912:Sara:4/27/1967:Mcallen:WEO:PhD:34
+913:Jeffery:11/27/1963:Charlotte:WEO:Professor:28
+914:Johnny:7/19/1955:Wallace:MSN:Master:34
+915:Modesta:7/10/1963:Minneapolis:MSN:Professor:30
+916:Joshua:3/22/1953:Vernal:SA:PhD:32
+917:Naomi:10/28/1963:Minneapolis:BIO:PhD:29
+918:Vicky:12/8/1972:Florence:MSN:PhD:43
+919:Geoffrey:3/27/1950:Reno:ICT:Professor:26
+920:Shelia:1/27/1954:Saginaw:MSN:PhD:41
+921:Gregg:2/15/1955:Equality:SA:PhD:22
+922:Ashley:8/7/1956:Waukesha:RE:Professor:32
+923:Daniel:6/1/1950:Ruidoso Downs:BIO:Professor:29
+924:Denver:8/17/1953:Ideal:ICT:Professor:21
+925:John:5/14/1964:Milwaukee:WEO:PhD:42
+926:Brady:8/26/1959:Independence:BIO:Professor:25
+927:Salvador:10/9/1963:Cedar Rapids:MSN:PhD:46
+928:Roger:8/14/1967:Rockville:MSN:Professor:46
+929:Kathy:12/4/1966:Lewiston:RE:Professor:41
+930:Bonnie:8/19/1958:Milwaukee:MSN:PhD:38
+931:Jennifer:1/2/1969:Lansing:BIO:Professor:40
+932:Laura:3/1/1952:Hickory Hills:MSN:Professor:20
+933:Minerva:1/19/1952:Manhattan:RE:Master:28
+934:Joyce:8/28/1965:Oakland:RE:Professor:33
+935:Vilma:9/3/1954:Fenton:SA:Master:43
+936:David:4/16/1960:Conyers:MSN:PhD:50
+937:Anthony:4/25/1950:San Francisco:SA:Master:42
+938:John:8/11/1971:Milwaukee:BIO:PhD:26
+939:Connie:4/9/1964:Eminence:SA:PhD:29
+940:Paul:4/4/1954:Westport:MSN:PhD:24
+941:Malcom:2/23/1957:North Berwick:SA:Master:44
+942:William:5/30/1955:Anchorage:BIO:Professor:20
+943:Margaret:2/25/1958:Fort Lauderdale:ICT:PhD:23
+944:Michael:3/6/1972:Leesburg:SA:PhD:50
+945:Donald:6/29/1967:Fort Morgan:BIO:Master:30
+946:David:5/7/1954:Boca Raton:MSN:Professor:21
+947:Kelly:9/15/1955:Blacksburg:MSN:Master:26
+948:Kelvin:5/28/1959:Sterling:WEO:Professor:32
+949:Christina:5/11/1963:Sheboygan Falls:RE:Professor:36
+950:Frank:2/28/1961:Eagan:BIO:Professor:30
+951:Celestine:1/9/1961:Baton Rouge:ICT:PhD:20
+952:Hunter:11/24/1952:Gardena:RE:PhD:35
+953:Scott:12/10/1953:Seagraves:SA:Professor:21
+954:Mary:2/6/1969:Denver:SA:PhD:29
+955:Shirley:12/2/1963:Montgomery:MSN:Professor:48
+956:Michael:5/15/1970:Westbury:MSN:PhD:45
+957:Dawn:4/28/1968:Stockton:RE:Professor:47
+958:Jesse:11/7/1967:New York:ICT:Professor:22
+959:Jeanette:12/19/1971:Atlanta:BIO:Master:45
+960:Lawanda:9/22/1963:Tipton:MSN:Master:44
+961:Harley:9/7/1963:Chamblee:WEO:Professor:30
+962:James:12/23/1961:Scranton:WEO:PhD:31
+963:Geraldine:7/1/1951:Lanesville:BIO:Professor:36
+964:Leon:6/7/1965:Newalla:RE:Master:24
+965:Robert:10/31/1951:Portland:BIO:PhD:42
+966:Samuel:10/19/1953:Las Vegas:MSN:Professor:49
+967:Gerald:10/28/1951:Los Angeles:BIO:Professor:41
+968:Gerardo:5/22/1967:Washington:ICT:Master:36
+969:Mara:5/16/1954:Headland:BIO:Professor:36
+970:Bryan:12/27/1968:Escondido:SA:Professor:23
+971:Angelica:12/25/1964:Camden:RE:Professor:33
+972:Maria:12/31/1967:Vacaville:WEO:PhD:25
+973:Robert:7/6/1970:Newport:MSN:Professor:36
+974:Rickie:12/26/1957:Raleigh:WEO:Master:30
+975:Carl:9/19/1965:Philadelphia:BIO:PhD:20
+976:Shirley:7/5/1968:Ravenna:MSN:Master:30
+977:Gerald:9/8/1962:Cuero:MSN:PhD:30
+978:Jerome:12/16/1969:San Diego:SA:Professor:39
+979:Marjory:2/4/1965:Indianapolis:WEO:Professor:22
+980:Roger:11/5/1970:Myrtle Beach:ICT:PhD:47
+981:Elizabeth:7/27/1968:Fallbrook:MSN:Professor:25
+982:Mark:11/29/1959:Helena:MSN:Professor:35
+983:Linda:11/17/1954:Burlington:MSN:PhD:47
+984:Elena:5/17/1967:Wayne:MSN:Professor:40
+985:Ryan:2/28/1956:Valdosta:SA:PhD:20
+986:Tommy:8/16/1965:Chicago:BIO:Professor:24
+987:Fred:5/30/1963:Home:RE:Professor:48
+988:Martha:7/27/1970:Meridian:SA:PhD:21
+989:Winston:8/18/1968:Reno:WEO:PhD:44
+990:Elizebeth:2/6/1971:Allentown:WEO:PhD:43
+991:Sarah:12/20/1970:Picayune:ICT:Master:27
+992:Ora:6/16/1952:Cadiz:BIO:PhD:47
+993:Dwayne:12/9/1953:Albany:MSN:Master:21
+994:James:9/18/1956:Gulfport:WEO:Master:49
+995:Edwin:11/1/1955:Fayette City:BIO:PhD:48
+996:Martha:12/29/1964:Rochester:BIO:PhD:30
+997:Roberta:3/3/1957:Great Falls:SA:Master:27
+998:Daniel:7/27/1950:Palestine:RE:Master:40
+999:Barbara:2/25/1964:Sacramento:RE:Master:47
+1000:Tammy:12/27/1968:Huntington:SA:Professor:21
+1001:Catherine:4/11/1967:Anchorage:MSN:Master:41
+1002:Pamela:12/29/1967:Houston:MSN:Master:26
+1003:Pamela:4/27/1961:Parsippany:ICT:PhD:34
+1004:Evelyn:7/20/1951:Grand Rapids:ICT:Master:45
+1005:Mildred:5/21/1971:Cincinnati:MSN:PhD:35
+1006:Mary:7/3/1956:Bath:SA:PhD:38
+1007:Rene:8/1/1950:Miami Springs:WEO:Professor:44
+1008:Shawn:8/13/1963:Boston:WEO:Professor:27
+1009:Gregory:4/28/1954:Boise:SA:Master:36
+1010:Linda:12/13/1951:Aztec:RE:Professor:23
+1011:Thomas:6/1/1966:Northumberland:SA:PhD:48
+1012:Geraldo:8/25/1966:Ocala:ICT:PhD:21
+1013:Irene:7/29/1959:Barnstead:RE:Professor:28
+1014:William:3/23/1968:Sauk City:ICT:PhD:27
+1015:Kimberly:9/8/1970:Kankakee:ICT:Professor:46
+1016:Mitchell:6/28/1955:New York:RE:PhD:49
+1017:Mirna:6/25/1953:Houston:BIO:PhD:36
+1018:Carol:3/16/1966:Cincinnati:RE:Master:45
+1019:Heidi:4/15/1972:Santa Cruz:SA:PhD:22
+1020:Susan:5/14/1972:Syracuse:RE:PhD:45
+1021:Renita:5/29/1968:Indianapolis:SA:Professor:25
+1022:Darrell:8/20/1967:New Berlin:WEO:Master:26
+1023:Diana:3/7/1959:Green Bay:RE:Master:42
+1024:Antonio:7/30/1965:Waltham:BIO:Professor:21
+1025:Jason:9/25/1968:Birmingham:MSN:Master:28
+1026:Mark:5/29/1972:Acton:BIO:PhD:39
+1027:Duncan:3/17/1966:Portland:MSN:Professor:34
+1028:Latoya:8/24/1961:Bloomfield:SA:Professor:30
+1029:Ricky:1/24/1970:New York:SA:Master:40
+1030:Johnny:1/26/1971:Moorhead:BIO:PhD:46
+1031:Randy:6/9/1967:Pittsburgh:RE:PhD:38
+1032:Veronica:12/27/1961:Lanham:SA:Master:21
+1033:Glenn:7/23/1954:Spokane:WEO:Professor:23
+1034:Christopher:8/13/1956:Fort Washington:MSN:PhD:43
+1035:Jason:12/2/1960:Franklin:MSN:Master:29
+1036:Justin:12/20/1971:Clearwater:MSN:Professor:22
+1037:Heather:3/13/1959:Memphis:WEO:PhD:21
+1038:John:4/15/1950:Sheboygan Falls:RE:PhD:31
+1039:Peter:1/17/1957:Kearney:SA:Master:24
+1040:Tammie:7/1/1970:Cullowhee:BIO:Master:33
+1041:Jonathan:4/17/1963:Dodgeville:RE:Professor:47
+1042:Myrtle:10/1/1965:Pittsburgh:WEO:PhD:48
+1043:Lillie:2/21/1953:Denver:SA:Master:47
+1044:Mary:3/27/1955:Mcallen:ICT:PhD:43
+1045:Eric:7/14/1959:Opelika:MSN:Master:38
+1046:Mary:7/30/1965:Stockton Springs:MSN:PhD:48
+1047:Frances:2/17/1951:Seattle:RE:PhD:42
+1048:James:2/2/1969:Bakersfield:ICT:Professor:36
+1049:Clarence:1/9/1972:Rome:RE:PhD:36
+1050:Jenny:4/15/1971:Bothell:RE:PhD:31
+1051:James:6/6/1965:Deer Park:RE:Professor:50
+1052:Christopher:7/22/1955:Houston:RE:Master:33
+1053:Eddie:3/30/1955:Hermleigh:SA:Professor:35
+1054:Jennie:7/16/1963:Savage:BIO:PhD:32
+1055:Dorothy:10/23/1955:Tempe:ICT:Professor:24
+1056:June:7/9/1958:Pensacola:ICT:Professor:25
+1057:Bruce:12/6/1970:Baltimore:RE:Master:25
+1058:Neva:6/4/1963:Chicago:ICT:PhD:30
+1059:Debbie:5/16/1972:Peoria:SA:Professor:28
+1060:Gertrude:6/11/1953:Buckfield:ICT:PhD:36
+1061:Melba:5/27/1958:Bakersfield:RE:Master:47
+1062:Carl:3/18/1958:Chicago:WEO:Master:40
+1063:Todd:4/28/1965:Atlanta:MSN:Professor:31
+1064:Peggy:8/28/1971:Raleigh:ICT:Professor:20
+1065:Anthony:4/29/1965:Orlando:WEO:Master:24
+1066:Moses:4/13/1971:Grand Rapids:MSN:Professor:22
+1067:Ethel:9/20/1957:Sykesville:ICT:PhD:39
+1068:Cindy:2/7/1973:Oakland:WEO:PhD:48
+1069:Rodney:11/27/1963:Lamberton:MSN:PhD:44
+1070:Robin:4/6/1970:Colorado Springs:ICT:Professor:34
+1071:Connie:3/17/1959:Memphis:WEO:Professor:32
+1072:Jorge:3/21/1964:Burlington:BIO:Master:34
+1073:Eric:2/28/1965:Southfield:WEO:Professor:21
+1074:Lydia:4/17/1966:Brazoria:SA:Master:45
+1075:Ann:12/22/1952:Seattle:SA:PhD:22
+1076:William:10/16/1964:Gresham:MSN:PhD:40
+1077:Karen:1/25/1971:Alexandria:RE:PhD:27
+1078:Tammy:8/6/1951:Lakewood:WEO:PhD:25
+1079:Sandra:9/21/1954:Hayward:WEO:Professor:31
+1080:Samantha:8/19/1968:Bloomington:MSN:Master:31
+1081:Elena:2/24/1961:Asheville:ICT:PhD:48
+1082:Judith:12/2/1961:Protection:SA:PhD:23
+1083:Charles:5/21/1970:Columbia:ICT:Master:23
+1084:John:4/19/1972:Blair:BIO:Professor:47
+1085:Karen:5/25/1960:Durham:RE:PhD:31
+1086:Ernesto:9/6/1969:Freehold:MSN:PhD:20
+1087:Jose:5/1/1950:El Monte:BIO:PhD:45
+1088:Rosemary:7/6/1956:West Des Moines:ICT:Professor:20
+1089:Clinton:7/16/1957:Ville Platte:RE:Master:48
+1090:Wilma:11/29/1952:Pawhuska:BIO:Professor:28
+1091:Robert:3/12/1973:Cambridge:ICT:PhD:33
+1092:Marco:10/22/1961:Prior Lake:ICT:Master:38
+1093:Myles:11/22/1972:Portland:ICT:Master:21
+1094:Chris:4/3/1956:North Charleston:ICT:Professor:50
+1095:James:10/10/1958:Fresno:ICT:Master:21
+1096:Scott:8/8/1959:Avilla:WEO:Professor:35
+1097:Maggie:4/18/1970:Winter Haven:WEO:Professor:35
+1098:Patsy:6/12/1959:Cedar Bluff:WEO:Master:49
+1099:Mary:12/9/1956:Columbus:ICT:PhD:46
+1100:John:8/4/1968:Richmond:ICT:Professor:30
+1101:George:1/4/1967:Cleburne:SA:PhD:42
+1102:Joel:5/27/1960:Deming:SA:Master:31
+1103:Alesia:9/30/1964:Helena:ICT:Professor:22
+1104:Raymond:8/31/1953:Westland:ICT:Master:33
+1105:Peter:4/15/1950:Chico:BIO:Professor:21
+1106:Deborah:5/10/1953:New Middletown:SA:Master:35
+1107:Elmer:2/15/1963:Topeka:WEO:Master:25
+1108:Eliana:6/22/1958:Arcadia:ICT:Professor:25
+1109:Florence:8/14/1950:Bismarck:MSN:PhD:44
+1110:Susan:1/18/1972:Bon Wier:ICT:Master:47
+1111:Carol:8/13/1959:Matthews:WEO:PhD:49
+1112:Lissette:11/25/1970:Edinburg:ICT:Professor:20
+1113:Brian:6/18/1971:Los Angeles:BIO:PhD:30
+1114:Theresa:9/3/1972:Los Angeles:ICT:Professor:39
+1115:Jason:8/7/1964:Memphis:ICT:PhD:34
+1116:Joyce:7/8/1954:Searsport:BIO:Professor:36
+1117:Lowell:11/13/1964:Monroe:RE:Professor:20
+1118:James:7/23/1956:Safe:SA:Master:30
+1119:Harvey:3/20/1962:Garfield Heights:RE:Master:26
+1120:Tammy:2/6/1957:Bolingbrook:RE:Professor:48
+1121:Eleanor:3/29/1950:New York:MSN:PhD:47
+1122:Alberta:10/16/1956:Iron Mountain:WEO:Professor:33
+1123:Melissa:11/5/1954:Virginia Beach:SA:Professor:21
+1124:Janet:5/27/1971:Louisville:MSN:Master:44
+1125:Kayla:12/7/1958:Show Low:RE:Master:37
+1126:Gerald:3/29/1965:Olivette:RE:Professor:37
+1127:Kathleen:10/1/1970:Elkhart:MSN:Master:33
+1128:Judy:10/15/1966:New Castle:BIO:Professor:31
+1129:Mary:1/25/1960:Lakeside Park:ICT:Master:39
+1130:Roger:8/29/1971:Atlanta:BIO:PhD:25
+1131:Mary:6/12/1965:Bristol:ICT:PhD:20
+1132:Virginia:9/14/1964:Westbrook:ICT:Master:43
+1133:Richard:7/23/1972:Hamilton:ICT:Professor:29
+1134:Nicholas:8/2/1958:Mount Union:RE:Master:44
+1135:Audrey:1/23/1963:Maybell:SA:PhD:42
+1136:Jordan:11/2/1952:Tempe:WEO:PhD:48
+1137:Edward:2/6/1970:State College:WEO:PhD:29
+1138:Kimberly:1/31/1965:Manhattan:WEO:Professor:38
+1139:Ida:2/25/1968:San Angelo:BIO:PhD:40
+1140:Wendell:7/21/1957:Freeport:SA:Professor:28
+1141:Miguel:9/22/1952:Lake Charles:RE:Master:49
+1142:Mark:10/31/1965:Salt Lake City:SA:Master:30
+1143:Michael:10/10/1964:Warren:MSN:PhD:33
+1144:Lucio:3/7/1954:West Nyack:ICT:PhD:27
+1145:Nell:3/1/1967:Atlanta:RE:Master:26
+1146:Zachary:7/25/1960:Atlanta:MSN:Master:22
+1147:Mary:9/18/1954:Beltsville:BIO:PhD:29
+1148:Sandra:3/14/1972:Yakima:BIO:Master:42
+1149:Casey:9/11/1950:Bay City:RE:PhD:31
+1150:Frederic:9/10/1959:Oakland:WEO:Master:48
+1151:Thomas:5/22/1957:Bennettville:RE:Master:36
+1152:Debora:1/6/1956:Revere:WEO:PhD:50
+1153:Cory:1/21/1972:Portland:WEO:Master:44
+1154:Judith:12/16/1970:Houston:ICT:Professor:30
+1155:Marjorie:4/21/1952:Arlington:MSN:PhD:30
+1156:Dolores:9/25/1965:Denver:MSN:Professor:49
+1157:Anthony:9/13/1959:Houston:SA:Professor:43
+1158:Dawna:4/15/1965:Saint Clairsville:ICT:Professor:41
+1159:Mack:3/22/1962:Burr Ridge:RE:PhD:45
+1160:Ida:12/23/1966:Bridgeport:SA:PhD:50
+1161:Abdul:11/8/1971:Quitman:SA:Master:27
+1162:Frances:9/2/1958:Shepherdsville:RE:PhD:37
+1163:Jared:9/3/1957:Hueytown:SA:Professor:24
+1164:Ruben:12/22/1961:Westbury:WEO:Professor:31
+1165:Ernest:1/9/1971:Corona:RE:Master:42
+1166:Andrew:8/30/1963:Tallahassee:ICT:Professor:35
+1167:Brandy:12/4/1951:Friant:BIO:Master:42
+1168:David:7/9/1955:Mansfield:RE:Professor:29
+1169:Daniel:9/28/1972:South Burlington:ICT:PhD:50
+1170:Darrin:5/9/1964:Middletown:WEO:Master:35
+1171:Walter:4/6/1960:Arlington:SA:Professor:33
+1172:Jill:3/16/1954:San Francisco:ICT:Master:49
+1173:Fannie:6/3/1962:Line Lexington:BIO:PhD:22
+1174:Derek:7/10/1956:Springfield:MSN:Professor:23
+1175:John:6/23/1950:Durham:MSN:Master:48
+1176:Jennifer:4/4/1957:Muskego:ICT:Master:45
+1177:Don:10/15/1963:Jacksonville:SA:Professor:27
+1178:Jose:10/23/1954:Statesville:BIO:Master:36
+1179:Duane:11/4/1961:Spring Lake (Highlands):BIO:Professor:33
+1180:Kathy:12/30/1950:Kenner:RE:PhD:27
+1181:Edward:10/11/1970:Wise River:RE:Professor:39
+1182:Louie:2/15/1965:Bend:MSN:Professor:28
+1183:William:12/11/1960:Elmsford:MSN:Professor:33
+1184:Steve:6/19/1959:New Orleans:WEO:Professor:40
+1185:Marie:8/24/1961:Bloomington:SA:Professor:46
+1186:Grover:2/5/1953:Dallas:RE:Professor:25
+1187:Michele:12/3/1964:Biloxi:MSN:Professor:20
+1188:Kurt:6/18/1951:Valparaiso:SA:Master:41
+1189:Armando:1/26/1953:Great Falls:WEO:PhD:40
+1190:Matthew:11/26/1964:Winston Salem:WEO:PhD:40
+1191:William:6/18/1971:Springfield:BIO:Professor:29
+1192:Stanley:11/13/1957:Farmington:BIO:Master:27
+1193:Amber:3/2/1966:Nashville:MSN:PhD:49
+1194:Blair:5/19/1971:Bangor:ICT:PhD:40
+1195:Kristin:3/14/1956:Oakham:MSN:PhD:46
+1196:Pauline:2/26/1963:Houston:SA:Master:20
+1197:Jeffrey:7/27/1962:Athens:WEO:PhD:36
+1198:Johnnie:7/25/1960:Dallas:BIO:PhD:34
+1199:Lewis:3/13/1955:Chicago:MSN:Professor:45
+1200:Nora:8/6/1950:Laurel:BIO:Professor:38
+1201:Tiffany:4/1/1954:Cleveland:ICT:Master:43
+1202:Joe:10/20/1970:Concord:BIO:Master:38
+1203:Kristi:9/6/1957:Benton:BIO:Professor:25
+1204:Marian:7/6/1953:Los Angeles:WEO:Master:30
+1205:Charles:8/7/1969:Woburn:RE:Master:46
+1206:Alma:1/24/1963:Framingham:WEO:Professor:30
+1207:Daniel:5/26/1955:Williston:BIO:Master:37
+1208:Rodney:6/17/1968:Pittsburgh:RE:Professor:38
+1209:Marion:11/3/1955:Houston:RE:PhD:42
+1210:Troy:2/28/1962:Midland:BIO:Master:27
+1211:Stephen:9/19/1954:Brooklyn:SA:Professor:38
+1212:Geoffrey:6/10/1952:Cody:RE:Master:25
+1213:Dwayne:8/17/1966:Palos Verdes:RE:Professor:42
+1214:Clifford:8/4/1964:Los Alamos:BIO:Master:45
+1215:Ryan:1/7/1973:Lava Hot Springs:RE:Master:42
+1216:Kathleen:9/30/1962:Gardena:MSN:PhD:22
+1217:Leslie:9/24/1957:Tacoma:SA:Master:47
+1218:Ashley:10/25/1971:Chicago:RE:Master:21
+1219:Brenda:9/14/1952:Superstition:ICT:Professor:32
+1220:Roxie:9/23/1950:Helena:RE:PhD:42
+1221:Michelle:8/29/1951:Brooklyn:MSN:Professor:38
+1222:Fred:1/29/1963:Saint Louis:WEO:Master:34
+1223:Kimberly:8/17/1969:Deerfield:ICT:PhD:36
+1224:Maria:8/10/1962:Coeur D Alene:RE:PhD:32
+1225:Kathy:4/12/1960:Park Forest:MSN:PhD:46
+1226:Waneta:2/21/1955:New Berlin:RE:PhD:31
+1227:Catherine:10/6/1959:Plymouth Meeting:MSN:PhD:27
+1228:Joy:3/17/1966:Charlotte:SA:Professor:48
+1229:Carole:7/7/1970:Rochelle Park:RE:Master:50
+1230:Nettie:12/19/1955:Dallas:SA:PhD:39
+1231:Joyce:6/19/1963:Lawrence:ICT:PhD:21
+1232:Keith:1/30/1962:Hartford:SA:PhD:48
+1233:John:11/20/1966:Elkins:MSN:PhD:23
+1234:Thelma:8/7/1959:Greenville:MSN:Master:30
+1235:Arnold:10/8/1957:Cumberland:MSN:Master:36
+1236:Joshua:6/7/1971:Frederick:RE:Master:28
+1237:Cynthia:11/7/1971:Paradise:SA:Professor:50
+1238:George:9/6/1951:West Roxbury:BIO:PhD:50
+1239:Maria:8/27/1967:Gardena:BIO:Master:33
+1240:Matthew:9/17/1954:West Point:BIO:Professor:30
+1241:William:9/1/1962:Ann Arbor:SA:Master:33
+1242:Juan:1/6/1968:Pewaukee:SA:Professor:20
+1243:Helen:5/13/1953:Helena:RE:Master:28
+1244:Rosa:4/3/1966:Victoria:SA:Professor:22
+1245:Andrea:10/21/1957:Vacherie:RE:PhD:41
+1246:Jesus:8/3/1958:Oak Lawn:WEO:PhD:41
+1247:Becky:3/18/1958:Waco:SA:Professor:24
+1248:Jose:3/17/1967:San Francisco:MSN:Master:26
+1249:Lavern:8/16/1952:Newton:RE:Master:42
+1250:Barbara:3/8/1962:Nashville:WEO:Professor:47
+1251:Oralia:10/21/1969:Vicksburg:BIO:PhD:29
+1252:Anna:6/29/1966:Baltimore:WEO:PhD:20
+1253:Peter:7/30/1971:Grand Rapids:BIO:Professor:35
+1254:Andrew:3/20/1961:Appleton:ICT:PhD:31
+1255:Matt:1/3/1965:State College:RE:Professor:41
+1256:Rebecca:3/28/1961:Harahan:SA:Master:50
+1257:Sondra:10/8/1951:Utica:SA:Professor:42
+1258:Connie:4/9/1961:San Diego:SA:Professor:47
+1259:Tad:5/29/1972:Lambert:WEO:PhD:28
+1260:Melinda:6/29/1966:Redding:ICT:PhD:42
+1261:Alison:5/18/1963:Topeka:BIO:Master:48
+1262:Michael:9/12/1962:North Highlands:MSN:Master:35
+1263:Eric:11/19/1963:Americus:BIO:PhD:28
+1264:Steven:4/6/1961:La Grange (Dutchess):RE:PhD:43
+1265:Matthew:10/3/1959:Washington:ICT:Professor:39
+1266:Carolyn:12/22/1955:Volens:WEO:Master:34
+1267:Michael:5/10/1954:Detroit:WEO:Professor:43
+1268:Krystal:3/28/1968:Odessa:BIO:Professor:28
+1269:Linda:7/6/1958:Toledo:ICT:Master:31
+1270:Robert:6/21/1972:Endicott:SA:Master:33
+1271:Renee:1/5/1973:Grand Rapids:BIO:Master:44
+1272:Maurine:11/11/1963:Stockton:BIO:Professor:39
+1273:Jacqueline:7/28/1952:Dearborn:MSN:Master:50
+1274:Matthew:10/29/1959:Stockton:RE:Master:45
+1275:Duane:3/27/1956:Tulsa:ICT:PhD:31
+1276:Garry:3/27/1954:Laredo:BIO:PhD:31
+1277:James:9/21/1970:Daytona Beach:ICT:Professor:20
+1278:Jeannette:12/11/1959:New York:SA:PhD:47
+1279:Dan:7/4/1951:Columbus:ICT:PhD:45
+1280:Mabel:10/8/1957:Jacksonville:RE:PhD:26
+1281:Marie:9/30/1970:Amana:WEO:Master:38
+1282:Daryl:5/5/1968:Indianapolis:ICT:Professor:37
+1283:Melinda:5/16/1971:Carbondale:WEO:Professor:27
+1284:Arthur:11/24/1954:Golden Valley:WEO:Professor:26
+1285:Elizabeth:8/8/1956:Panama City:BIO:Master:35
+1286:Frank:7/7/1970:Clearwater:MSN:Professor:39
+1287:Floyd:11/3/1953:Taos:MSN:Professor:21
+1288:Mamie:11/27/1972:Mount Ida:WEO:PhD:40
+1289:Kenneth:8/12/1952:Garden City:RE:PhD:31
+1290:Monserrate:10/9/1956:Draper:BIO:Master:46
+1291:Amanda:4/5/1964:Texarkana:SA:PhD:27
+1292:Virginia:8/17/1965:Dallas:SA:Master:45
+1293:Kristen:10/10/1964:Dayton:MSN:PhD:47
+1294:Michael:4/23/1959:Nashville:MSN:Master:45
+1295:Kimberlee:4/12/1965:Boston:BIO:Professor:42
+1296:Donna:1/30/1961:Washington:MSN:Master:33
+1297:Nicholas:10/18/1953:Johnson City:RE:Master:45
+1298:Mark:6/17/1969:Stockton:WEO:PhD:33
+1299:John:10/4/1970:Boston:ICT:Master:36
+1300:Cody:10/20/1958:Sardis:SA:Professor:27
+1301:Jimmy:5/20/1956:Bothell:BIO:Master:44
+1302:Antonietta:12/10/1959:Franklin:BIO:PhD:43
+1303:Linda:5/18/1956:Toledo:SA:Professor:38
+1304:Christopher:2/25/1967:Oakland:ICT:Professor:46
+1305:Ronald:3/9/1955:Pequot Lakes:ICT:Master:36
+1306:Ruby:10/10/1971:Storm Lake:ICT:PhD:22
+1307:Marissa:8/7/1953:New Waterford:RE:Professor:31
+1308:Peggy:4/11/1954:Stlouis:WEO:Master:39
+1309:Ray:9/18/1959:Woburn:MSN:Master:33
+1310:Nettie:12/29/1953:Fremont:WEO:Professor:43
+1311:James:10/19/1956:Tukwila:ICT:PhD:41
+1312:Margarita:9/10/1952:Matthews:SA:Professor:36
+1313:Elizabeth:8/17/1960:Landover:BIO:Master:34
+1314:Leisa:12/23/1952:Cotton Port:BIO:Professor:32
+1315:Brenda:7/27/1960:College Station:MSN:Professor:43
+1316:Danny:6/13/1954:Blue Island:ICT:Master:36
+1317:Daniel:10/17/1950:Saint Cloud:WEO:PhD:22
+1318:Carl:2/24/1951:Pittsburgh:BIO:PhD:42
+1319:Charles:11/1/1950:Shinglehouse:WEO:Professor:36
+1320:Kimberly:12/14/1959:Dearborn:MSN:Master:42
+1321:Francisco:3/24/1970:Arlington:SA:PhD:22
+1322:Judith:3/23/1962:Santa Clara:RE:PhD:40
+1323:Elinor:10/20/1963:Providence:RE:PhD:20
+1324:Lindsey:2/3/1962:Cincinnati:RE:Master:39
+1325:Raymond:3/4/1966:Hartford:WEO:Professor:33
+1326:Mildred:3/12/1953:Poughkeepsie:WEO:PhD:44
+1327:Beth:11/18/1962:Modesto:ICT:Master:35
+1328:Margaret:2/15/1970:Muskegon:SA:PhD:25
+1329:Eve:4/25/1961:Las Vegas:WEO:Master:43
+1330:Margaret:9/4/1965:Minneapolis:ICT:Professor:32
+1331:Leslie:1/11/1956:Los Angeles:MSN:PhD:44
+1332:Sarah:7/23/1957:Anaheim:ICT:PhD:33
+1333:Jennie:4/22/1963:Westerville:SA:PhD:34
+1334:Robert:10/13/1960:Springfield:RE:PhD:34
+1335:Robert:7/24/1950:Culver City:RE:Master:50
+1336:Norman:1/1/1970:Enterprise:BIO:Professor:27
+1337:Patrick:3/9/1963:Sacramento:SA:Professor:46
+1338:Rebecca:7/1/1955:Page:RE:PhD:25
+1339:Sallie:1/23/1954:Great Falls:SA:Professor:25
+1340:Phyllis:6/5/1959:Mansfield:RE:Master:45
+1341:Alma:6/27/1957:Great Barrington:RE:Master:36
+1342:Harold:5/12/1951:Sammamish:BIO:Master:24
+1343:Clara:7/15/1956:Lincoln:BIO:PhD:28
+1344:William:7/23/1959:Victoria:RE:Professor:41
+1345:Howard:12/17/1955:Arlington:MSN:Professor:38
+1346:Erin:3/24/1964:Wyoming:ICT:PhD:20
+1347:Sofia:8/19/1957:Houston:WEO:Professor:38
+1348:Amelia:10/27/1970:Jersey City:WEO:PhD:48
+1349:Lena:11/16/1970:Anaheim:SA:Master:25
+1350:Louisa:3/17/1961:Newark:ICT:PhD:29
+1351:Ralph:2/25/1964:Oakland:RE:Master:34
+1352:William:1/16/1954:Cleveland:ICT:Professor:20
+1353:Marjorie:4/18/1960:San Diego:SA:PhD:29
+1354:Jamison:1/25/1965:Dallas:MSN:Professor:44
+1355:Roger:4/14/1957:Bohemia:RE:Professor:39
+1356:Olympia:1/4/1960:Columbia:BIO:Master:27
+1357:Joel:8/7/1954:Houston:BIO:Professor:23
+1358:Douglas:11/9/1957:Covington:WEO:Master:27
+1359:John:5/5/1969:Riverside:RE:Professor:31
+1360:Ricky:1/11/1968:State College:BIO:Master:40
+1361:Robin:5/12/1962:Stockton:WEO:Master:27
+1362:Joann:4/11/1952:Fresno:SA:Professor:27
+1363:Ralph:10/12/1951:Ormond Beach:MSN:Master:36
+1364:Julia:11/18/1953:Allentown:WEO:PhD:50
+1365:William:9/9/1966:Longmont:ICT:PhD:46
+1366:Regina:1/20/1961:Adams:WEO:Professor:44
+1367:Christopher:8/29/1966:Bensenville:SA:Master:35
+1368:Nicole:7/11/1956:Jackson:BIO:Master:49
+1369:Joseph:8/28/1972:Carthage:SA:Master:28
+1370:Theresa:3/31/1960:Swartz Creek:WEO:PhD:39
+1371:Lynnette:3/30/1970:Westchester:SA:Professor:28
+1372:Mark:8/25/1971:Chicago:SA:PhD:45
+1373:Emma:5/5/1967:Kansas City:BIO:Master:20
+1374:Christian:2/23/1972:Orlando:WEO:PhD:40
+1375:Mary:3/2/1960:Lititz:RE:PhD:48
+1376:Rosalie:12/11/1967:Randall:ICT:Master:44
+1377:Ayanna:10/11/1972:Eugene:WEO:Master:50
+1378:Travis:12/21/1962:Detroit:WEO:Master:41
+1379:Christine:10/28/1954:Cincinnati:WEO:PhD:30
+1380:Brenda:3/25/1961:Charlotte:SA:Professor:47
+1381:David:6/14/1963:Reno:SA:Professor:50
+1382:Mark:6/12/1966:Columbus:MSN:PhD:50
+1383:Donald:7/12/1960:San Antonio:WEO:Professor:35
+1384:Manuel:5/17/1965:Vidor:SA:Master:46
+1385:Robert:6/6/1972:Eau Claire:ICT:Master:48
+1386:James:12/20/1959:Omaha:MSN:Professor:35
+1387:William:9/27/1969:Jackson:BIO:PhD:24
+1388:Sam:5/19/1951:Hackensack:RE:Professor:49
+1389:Patricia:11/8/1963:Houston:ICT:PhD:48
+1390:Corrine:10/30/1954:Baltimore:WEO:PhD:39
+1391:Clara:2/25/1960:Worthington:BIO:Professor:26
+1392:James:7/18/1951:Southfield:SA:Master:44
+1393:Beatrice:5/27/1971:Kendall:BIO:Professor:25
+1394:Aaron:1/21/1956:Ventura:BIO:Professor:43
+1395:Linda:5/14/1971:Kosse:RE:Master:33
+1396:Ryan:1/29/1962:Louisville:RE:Master:32
+1397:Alex:3/8/1971:Traverse City:ICT:Professor:31
+1398:Jeremy:5/12/1966:Merrillville:RE:Professor:27
+1399:Charlotte:1/11/1968:Rancho Dominguez:SA:Professor:22
+1400:Karen:9/13/1959:Tupelo:SA:Master:31
+1401:Anna:7/20/1971:Burlington:ICT:Professor:47
+1402:Albert:1/8/1967:Boston:MSN:PhD:46
+1403:Joan:11/29/1960:Norcross:RE:Master:26
+1404:Charles:11/3/1959:Granite Shoals:RE:PhD:37
+1405:Mark:11/11/1961:Ada:RE:PhD:23
+1406:Randolph:7/25/1962:Tigard:MSN:Master:28
+1407:Gregory:8/28/1964:Springfield:BIO:PhD:39
+1408:Charles:10/2/1953:Burr Ridge:WEO:Master:47
+1409:Victoria:9/29/1958:New Brunswick:BIO:Master:45
+1410:Veronica:3/17/1962:Concord:BIO:Master:50
+1411:Gerald:1/7/1972:Ogden:SA:PhD:46
+1412:Michael:4/11/1971:Birmingham:BIO:Master:28
+1413:Earnest:1/29/1956:Syracuse:RE:Professor:39
+1414:Tony:7/5/1957:Panama City:WEO:PhD:42
+1415:Jerry:8/16/1959:Little Rock:WEO:PhD:40
+1416:Kenneth:3/2/1956:Orlando:RE:Professor:33
+1417:Clifford:10/29/1962:Minneapolis:BIO:Professor:22
+1418:Michael:9/20/1969:Little Rock:MSN:Master:48
+1419:Judy:4/20/1961:Seattle:RE:Professor:23
+1420:Marilyn:10/26/1956:Milwaukee:WEO:Professor:20
+1421:Margaret:6/11/1959:Piscataway:MSN:Professor:37
+1422:Randy:2/4/1973:Lawrence:ICT:Master:33
+1423:Mildred:2/21/1959:Midland:BIO:Professor:28
+1424:James:12/7/1961:Woodland Hills:RE:PhD:40
+1425:Brett:9/3/1959:Wallingford:SA:Master:41
+1426:Barbara:12/2/1960:Sprague:ICT:PhD:23
+1427:Pam:1/18/1954:Atlanta:SA:Professor:32
+1428:William:12/10/1953:Oak Brook:RE:Professor:21
+1429:Lucille:9/17/1965:Los Angeles:SA:Master:24
+1430:Christopher:1/1/1959:East Dundee:BIO:PhD:22
+1431:Diana:1/23/1955:York:SA:Master:33
+1432:Robert:2/13/1953:Sierra City:SA:Master:26
+1433:Bari:8/11/1964:Des Moines:WEO:PhD:29
+1434:Jennifer:5/1/1959:Colby:BIO:Professor:43
+1435:Russell:12/5/1962:Chesterfield:WEO:PhD:31
+1436:Calvin:10/30/1955:Jacksonville:BIO:Professor:35
+1437:Bryan:11/2/1954:Burbank:SA:Professor:27
+1438:Joshua:2/23/1967:Lyndhurst:SA:PhD:49
+1439:Tasha:9/28/1967:Brooklyn:BIO:Professor:31
+1440:Jarvis:2/4/1956:New Berlin:RE:PhD:22
+1441:Mary:4/10/1957:Memphis:RE:Master:44
+1442:Dale:2/1/1960:Overlandpk:MSN:Master:42
+1443:Donna:9/26/1953:Irvine:MSN:PhD:32
+1444:Ryan:10/12/1970:Vidor:MSN:Professor:50
+1445:Alicia:6/10/1970:Boston:SA:Master:45
+1446:Robert:10/14/1952:Savage:RE:Master:40
+1447:Maria:6/26/1968:Fort Myers:ICT:Master:36
+1448:Melisa:9/14/1959:Chicago:RE:Professor:47
+1449:Miguel:7/24/1959:Midland:MSN:PhD:50
+1450:Ralph:4/14/1972:Atlanta:MSN:Master:42
+1451:Sandra:9/28/1952:Hackettstown:RE:Professor:39
+1452:Susan:10/20/1964:Mclean:MSN:Master:33
+1453:Edward:4/21/1957:Paducah:WEO:PhD:48
+1454:Della:6/26/1950:San Antonio:ICT:Master:48
+1455:David:8/13/1969:La Place:WEO:Master:33
+1456:Dina:2/3/1961:Norcross:BIO:Professor:45
+1457:Jesus:2/19/1965:Valle Vista:BIO:Master:50
+1458:Tony:6/9/1962:Kansas City:BIO:Professor:49
+1459:Ruben:9/9/1962:Mankato:SA:Master:47
+1460:Donna:12/16/1972:Milwaukee:MSN:Master:25
+1461:Kerry:5/23/1954:Tremont:ICT:PhD:23
+1462:Frances:2/10/1958:Metairie:RE:Professor:26
+1463:Tony:5/4/1953:Granada Hills:ICT:PhD:25
+1464:Keith:7/30/1952:Cookeville:MSN:Master:27
+1465:Francis:7/24/1964:Toledo:RE:Professor:26
+1466:Aaron:11/19/1950:Oakland:BIO:Professor:22
+1467:Cleveland:9/17/1953:Roseville:ICT:PhD:36
+1468:Mary:1/26/1968:New Cumberland:ICT:PhD:38
+1469:Rafael:11/29/1968:Lexington:ICT:Professor:34
+1470:Alice:7/7/1963:Somerville:WEO:Professor:46
+1471:Jennifer:2/1/1969:Phoenix:ICT:Master:32
+1472:Ollie:12/14/1958:Boca Raton:SA:Master:39
+1473:James:4/28/1954:Boston:WEO:Master:29
+1474:Ruth:5/22/1968:Saginaw:SA:Master:34
+1475:Brenda:10/28/1964:San Francisco:BIO:Professor:25
+1476:Gerardo:7/5/1967:New York:WEO:Master:26
+1477:William:11/20/1964:Pahrump:BIO:PhD:27
+1478:Steven:10/20/1966:Modesto:WEO:Master:25
+1479:Omar:9/17/1959:Olivette:BIO:PhD:34
+1480:Paul:11/21/1961:Sacramento:ICT:Master:35
+1481:Kristy:10/26/1972:Sandusky:ICT:Professor:40
+1482:Geneva:10/26/1953:Dallas:RE:Professor:34
+1483:Alan:1/6/1958:San Antonio:BIO:Professor:20
+1484:Ronald:10/9/1956:Joplin:ICT:Master:22
+1485:James:6/30/1960:Novato:WEO:Professor:26
+1486:Lucy:7/1/1959:Boston:SA:Professor:29
+1487:Claude:6/24/1957:Macon:ICT:Professor:42
+1488:Darrell:4/23/1951:Greenfield:RE:Master:41
+1489:Boyd:11/12/1965:Texarkana:BIO:Master:36
+1490:Paula:2/20/1961:Phoenix:BIO:Professor:29
+1491:April:12/14/1959:Reno:BIO:Master:47
+1492:Faye:2/28/1951:Birmingham:RE:Professor:25
+1493:Richard:1/2/1957:Tulsa:WEO:Professor:33
+1494:Michael:1/16/1963:Detroit:SA:PhD:34
+1495:Amber:5/23/1959:Sisterdale:MSN:Master:46
+1496:Ann:4/6/1950:Tempe:ICT:PhD:30
+1497:Clara:10/21/1952:Oakland:SA:Professor:50
+1498:Edward:7/2/1958:Mcallen:MSN:PhD:31
+1499:Christina:12/8/1950:Chicago:SA:Master:37
+1500:Dorothy:6/30/1957:Wichita:RE:PhD:20
+1501:Michael:12/14/1963:Centerville:SA:Master:47
+1502:Robert:5/13/1952:Lowell:WEO:Master:29
+1503:Jake:8/16/1968:New Hope:MSN:Professor:22
+1504:Margart:8/11/1962:New York:BIO:Master:33
+1505:Jennifer:10/6/1954:Atlanta:SA:PhD:31
+1506:Eugene:8/9/1951:Rivesville:BIO:Master:26
+1507:Kim:8/17/1961:Nashville:ICT:PhD:31
+1508:Oleta:1/1/1956:Loveland:ICT:Master:26
+1509:Jose:4/24/1960:Eau Claire:ICT:Professor:36
+1510:David:11/19/1966:Dayton:SA:Master:42
+1511:Toby:5/3/1968:San Francisco:WEO:Professor:31
+1512:Wendell:10/14/1967:Columbia:WEO:Professor:49
+1513:Monica:5/9/1971:South Londonderry:SA:Master:27
+1514:Darcy:11/7/1972:Santa Ana:WEO:PhD:21
+1515:Jasper:12/21/1962:Bakersfield:SA:Professor:41
+1516:Howard:9/13/1972:Peoria:SA:PhD:49
+1517:Natalia:1/17/1967:Platte City:RE:PhD:37
+1518:Kyle:5/14/1972:Cranston:WEO:PhD:24
+1519:Sandra:3/30/1970:Tampa:MSN:PhD:40
+1520:Linda:5/5/1953:Greenville:SA:Professor:23
+1521:Daren:11/19/1958:Dallas:RE:Professor:48
+1522:Daniel:6/22/1970:Los Angeles:BIO:Master:26
+1523:William:12/4/1967:Charleston:MSN:Professor:22
+1524:James:9/22/1958:Elkin:BIO:PhD:39
+1525:Alycia:9/26/1964:Columbia:BIO:PhD:33
+1526:Megan:9/23/1956:La Place:BIO:Master:42
+1527:Marjorie:12/20/1957:Mira Loma:WEO:Professor:38
+1528:Annette:7/3/1972:New York:WEO:Master:43
+1529:David:10/20/1957:Saint Louis:ICT:Professor:37
+1530:John:1/19/1967:Tampa:SA:Professor:38
+1531:Ofelia:7/3/1959:San Antonio:ICT:PhD:31
+1532:Dean:9/5/1952:Wilmot:RE:Professor:49
+1533:Robert:9/26/1965:Bass River:RE:PhD:40
+1534:Frances:5/22/1963:Saint Paul:WEO:Professor:40
+1535:Annie:7/11/1960:Fayette:RE:Professor:28
+1536:Dennis:7/31/1971:Sugar Notch:BIO:PhD:40
+1537:Christine:1/3/1963:Bothell:WEO:PhD:42
+1538:Brian:4/19/1954:Saint Louis:ICT:Master:40
+1539:Mary:8/18/1965:Tok:ICT:Master:38
+1540:Jessie:10/27/1965:Ontario:SA:PhD:34
+1541:Eric:2/29/1972:Santa Fe Springs:MSN:PhD:35
+1542:John:4/25/1968:Dodge:WEO:Master:37
+1543:Elizabeth:6/30/1962:Centennial:BIO:Master:46
+1544:Sylvia:11/4/1967:Danbury:ICT:PhD:26
+1545:Jarrod:8/29/1968:Vancouver:RE:Professor:26
+1546:Patricia:2/1/1956:Atlanta:SA:Master:47
+1547:Angela:2/18/1966:Ocala:ICT:Professor:35
+1548:Nancy:10/8/1953:Maybell:MSN:PhD:28
+1549:Richard:6/25/1968:Kennewick:BIO:PhD:43
+1550:Thomas:2/12/1969:Tampa:WEO:Master:23
+1551:Isiah:12/16/1960:Chicago:ICT:PhD:44
+1552:Lillian:4/8/1963:Reno:SA:PhD:50
+1553:Frank:2/17/1972:Pocatello:SA:Professor:36
+1554:Scott:1/3/1967:Los Angeles:MSN:Master:35
+1555:Karin:6/20/1953:Murfreesboro:SA:PhD:29
+1556:Roger:1/9/1970:Harlingen:MSN:Professor:28
+1557:Stacey:3/11/1960:Green River:RE:PhD:46
+1558:Anna:8/2/1954:Wilson:MSN:Professor:23
+1559:Susan:9/7/1965:New Berlin:BIO:Master:47
+1560:James:10/31/1968:Worthington:ICT:Professor:22
+1561:Peter:7/9/1968:Grand Rapids:RE:PhD:34
+1562:Juan:1/29/1970:Fredericksburg:SA:Professor:31
+1563:Marta:12/25/1963:Cambridge:MSN:Professor:20
+1564:Hollie:3/7/1973:Phoenix:BIO:PhD:31
+1565:Norman:10/13/1956:La Mesa:SA:Professor:23
+1566:Lillian:9/22/1965:Albuquerque:WEO:PhD:28
+1567:Helen:8/11/1952:Bethesda:BIO:Professor:29
+1568:Norma:12/23/1961:Dousman:SA:PhD:20
+1569:Brenda:8/5/1960:Fort Lee:BIO:PhD:34
+1570:Rosalind:9/11/1968:Rochelle Park:MSN:PhD:35
+1571:Cheryl:8/17/1957:Tampa:ICT:PhD:20
+1572:Florence:12/24/1951:Hillsboro:MSN:Master:24
+1573:Shane:4/27/1970:New York:WEO:PhD:42
+1574:Vicki:1/21/1968:Hughes:SA:Master:45
+1575:Paul:5/29/1956:Beltsville:BIO:Master:47
+1576:Thomas:5/6/1954:Arlington:RE:PhD:39
+1577:Brian:11/12/1969:Spring Green:WEO:PhD:44
+1578:Anibal:2/10/1953:Laredo:SA:Professor:34
+1579:Barbra:5/22/1951:Phoenix:MSN:Professor:41
+1580:Leslie:7/21/1953:Kenner:ICT:PhD:45
+1581:Norma:1/1/1951:La Porte:SA:PhD:20
+1582:Grace:2/7/1954:Lynchburg:BIO:Master:28
+1583:Raymond:9/24/1970:Knoxville:SA:Master:35
+1584:Mike:5/25/1972:Preston:ICT:Professor:40
+1585:Richard:7/7/1951:Brockton:RE:PhD:34
+1586:Holli:11/28/1965:Oakland:WEO:PhD:28
+1587:Amy:11/21/1952:Sharon:ICT:PhD:47
+1588:Robert:12/6/1955:Philadelphia:SA:PhD:39
+1589:Robert:1/14/1964:Charlottesville:RE:PhD:50
+1590:Michael:10/14/1972:Arlington:BIO:PhD:50
+1591:James:3/21/1958:Pierre Part:BIO:Professor:28
+1592:Robena:10/1/1951:Marysville:SA:Master:30
+1593:Cesar:10/23/1967:Garden City:WEO:PhD:37
+1594:Anthony:10/28/1963:Detroit:WEO:PhD:44
+1595:William:8/1/1952:Irvine:BIO:Professor:30
+1596:Nicole:10/6/1959:Leasburg:WEO:Master:50
+1597:Leo:6/20/1956:Flat Rock:RE:Professor:36
+1598:Craig:4/4/1962:Chicago:RE:Professor:43
+1599:Lawrence:1/10/1961:Pittsburgh:MSN:PhD:36
+1600:Josephine:2/21/1956:Fredericksburg:BIO:PhD:24
+1601:David:9/1/1958:Bowling Green:RE:Master:24
+1602:Alicia:3/16/1964:Danville:BIO:Professor:20
+1603:Sophia:8/8/1950:Laurel:MSN:PhD:29
+1604:David:9/30/1955:Jamaica:BIO:PhD:35
+1605:Sue:2/24/1958:Pownal:SA:PhD:36
+1606:Linda:4/13/1957:Detroit:RE:PhD:29
+1607:Donna:2/20/1951:Woburn:ICT:PhD:35
+1608:Catherine:1/8/1971:Clarkston:WEO:PhD:41
+1609:Hector:12/18/1955:Cleburne:WEO:Professor:40
+1610:James:8/12/1968:Winona:ICT:Professor:47
+1611:Winston:4/20/1965:Livonia:ICT:Master:20
+1612:Evelyn:9/14/1951:Cheyenne:SA:Professor:47
+1613:Joyce:10/21/1963:Paradise Valley:MSN:PhD:28
+1614:Barb:10/31/1966:Cheyenne:ICT:Master:49
+1615:Joan:9/2/1957:Santa Barbara:RE:PhD:23
+1616:Mike:6/12/1950:Asbury Park:RE:Master:49
+1617:Robbyn:5/9/1972:Palo Alto:RE:PhD:33
+1618:Jordan:2/19/1956:Fletcher:SA:Master:43
+1619:Kevin:5/8/1970:Logan:SA:PhD:23
+1620:Barry:7/29/1954:Madison:WEO:PhD:41
+1621:Richard:5/29/1971:Dallas:SA:Professor:31
+1622:Lena:12/30/1959:Hubbard:ICT:Master:50
+1623:Travis:3/8/1961:Bronx:MSN:Master:20
+1624:Brandon:10/19/1963:Houston:ICT:Professor:42
+1625:Kathleen:1/8/1957:Orlando:ICT:PhD:27
+1626:Gary:10/9/1965:San Francisco:MSN:Master:40
+1627:Ralph:6/7/1959:Houston:RE:PhD:30
+1628:Andrew:2/28/1959:Schurz:BIO:Master:24
+1629:Billy:1/8/1954:Montclair:MSN:Professor:28
+1630:Charles:7/17/1965:Playa Del Rey:RE:PhD:31
+1631:Shanell:6/10/1970:Boston:BIO:Professor:27
+1632:John:2/22/1952:Rutherford:WEO:Professor:46
+1633:Esther:12/4/1954:Gilbert:ICT:Master:20
+1634:Valerie:4/28/1958:Huntington:RE:PhD:39
+1635:Melvin:7/22/1965:Plant City:ICT:Professor:38
+1636:Yvonne:1/22/1973:New York:WEO:PhD:49
+1637:Larry:1/7/1960:Palm Springs:WEO:Professor:44
+1638:Herbert:7/20/1963:Jasper:MSN:Professor:39
+1639:Stephanie:6/4/1953:Ashdown:SA:PhD:28
+1640:Lola:10/4/1958:Garnett:BIO:PhD:26
+1641:Margaret:12/25/1957:Shreveport:RE:Master:21
+1642:Yolanda:2/25/1956:Charlotte:RE:Master:48
+1643:Ernesto:10/10/1965:Syracuse:SA:Professor:46
+1644:Paul:10/8/1956:Washington:ICT:Master:34
+1645:Eugenia:5/19/1962:Grygla:BIO:Professor:49
+1646:Frances:5/7/1962:Greeneville:SA:Master:28
+1647:Rochelle:8/30/1971:South Salem:SA:Master:31
+1648:Angela:5/6/1963:Washington:RE:Master:34
+1649:Elizabeth:8/18/1957:Fairport:MSN:Professor:47
+1650:William:1/22/1966:Garden City:SA:Master:39
+1651:Kathy:11/18/1968:Fredericksburg:WEO:PhD:47
+1652:Edwin:6/8/1956:Albany:WEO:Professor:39
+1653:Carlos:12/4/1967:Dallas:RE:Master:50
+1654:Gina:3/6/1972:Ouray:WEO:PhD:25
+1655:Henry:10/26/1956:Brooklyn:RE:Master:33
+1656:David:3/15/1956:Lafayette:WEO:PhD:26
+1657:Sheila:5/14/1966:Mount Holly:MSN:PhD:43
+1658:Daisy:6/15/1958:Altoona:WEO:PhD:22
+1659:Marcus:7/16/1969:Newark:WEO:PhD:40
+1660:Tony:11/13/1954:Washington:WEO:Master:31
+1661:Penny:7/1/1967:San Jose:RE:PhD:24
+1662:Raul:6/27/1962:Mansfield:RE:Professor:27
+1663:Michael:2/27/1952:Gering:RE:Professor:35
+1664:Karen:9/29/1955:Sugar Land:SA:Master:37
+1665:John:10/29/1953:Westerville:SA:Professor:23
+1666:Alan:10/13/1968:Bakersfield:RE:Master:25
+1667:Rodney:4/19/1962:Arlington Heights:BIO:PhD:27
+1668:Cathie:2/8/1960:Catlin:RE:Professor:41
+1669:Hortense:12/14/1966:Waukesha:WEO:Master:41
+1670:Dennis:12/28/1955:Grand Prairie:SA:Master:47
+1671:Rebecca:4/9/1967:Dale:MSN:PhD:20
+1672:Harold:9/8/1964:Glendale:ICT:Professor:23
+1673:Madonna:3/27/1959:Canandaigua:WEO:PhD:48
+1674:Kris:4/3/1970:Salinas:RE:PhD:26
+1675:Jim:12/21/1952:Maple Shade:BIO:PhD:39
+1676:Tim:2/8/1957:Bessie:ICT:Master:33
+1677:Della:5/18/1957:West Des Moines:BIO:PhD:41
+1678:Debbie:5/28/1969:Orland Park:MSN:Master:29
+1679:Mary:6/14/1961:New York:ICT:Professor:41
+1680:Sara:2/4/1952:Richmond:WEO:PhD:22
+1681:Jackie:5/29/1967:Deerfield:BIO:Master:32
+1682:Diana:9/19/1964:Harrisburg:BIO:Master:28
+1683:Christopher:9/30/1959:Fort Myers:SA:Professor:33
+1684:Anna:6/9/1966:Dearborn:BIO:Master:41
+1685:Geraldine:12/30/1957:Bastrop:BIO:Professor:42
+1686:Lorrie:9/25/1972:Dickinson:RE:Master:22
+1687:Stephanie:12/1/1954:Lenexa:ICT:Master:26
+1688:Karen:2/1/1960:Richmond:SA:PhD:34
+1689:Jason:7/15/1970:Lancaster:SA:Master:34
+1690:Teresa:7/25/1957:Los Angeles:RE:Professor:36
+1691:Franklin:7/10/1963:Hennepin:RE:Professor:28
+1692:Todd:5/25/1950:Three Oaks:ICT:PhD:41
+1693:Martha:3/9/1963:Plainview:WEO:Master:23
+1694:Erin:9/30/1952:Concord:WEO:Master:37
+1695:David:1/3/1955:Tampa:BIO:PhD:31
+1696:Caroline:2/19/1951:Mesa:BIO:Master:31
+1697:Corina:9/8/1951:Philadelphia:SA:Master:26
+1698:Michael:9/27/1968:Harrisburg:RE:Professor:35
+1699:Ruby:1/3/1955:Dallison:ICT:Professor:40
+1700:Peter:7/19/1971:Garden City:BIO:PhD:26
+1701:Margie:6/11/1962:Tulsa:MSN:PhD:27
+1702:Paul:1/21/1960:Montgomery:RE:Master:31
+1703:Pamela:4/12/1955:Detroit:RE:Professor:31
+1704:Deidra:3/14/1954:Salinas:RE:Master:49
+1705:Thelma:3/8/1960:Minneapolis:MSN:PhD:46
+1706:Claudia:2/11/1964:Dallas:BIO:PhD:21
+1707:Joseph:5/9/1959:Baton Rouge:MSN:Professor:41
+1708:Jean:3/6/1951:Cincinnati:ICT:Master:27
+1709:Kelley:7/27/1969:Burlington:RE:PhD:44
+1710:Loretta:1/3/1954:Pleasanton:BIO:PhD:41
+1711:Melanie:12/7/1955:Orlando:BIO:Professor:31
+1712:Sarah:1/23/1961:Fairmont:RE:PhD:47
+1713:Maria:5/23/1950:Denver:ICT:Professor:50
+1714:George:8/15/1951:Salt Lake City:SA:Professor:45
+1715:Cristina:10/30/1957:West Sacramento:ICT:PhD:38
+1716:Richard:3/8/1966:Dothan:MSN:Professor:49
+1717:Meghan:6/30/1970:Tucson:MSN:Professor:47
+1718:Deborah:9/12/1963:Rancho Cordova:SA:Master:44
+1719:Gladys:5/11/1972:Columbiana:MSN:PhD:25
+1720:John:5/14/1961:Mindenmines:SA:PhD:47
+1721:Ashley:12/16/1955:Brewster:SA:Master:22
+1722:Deanna:5/30/1960:Redgranite:MSN:Professor:21
+1723:Michael:1/20/1954:Reno:ICT:Master:30
+1724:Rosanne:11/3/1968:Wooster:SA:PhD:20
+1725:Joshua:5/19/1968:Hyattsville:SA:Professor:27
+1726:Larry:9/24/1952:Wake Forest:ICT:PhD:29
+1727:Sarah:5/11/1972:Baltimore:RE:Master:28
+1728:Daniel:3/20/1962:Tempe:MSN:Professor:31
+1729:Maria:5/28/1960:Los Angeles:ICT:PhD:37
+1730:Allen:7/30/1961:Concord:RE:Professor:46
+1731:Cesar:1/22/1973:Chester:BIO:Master:36
+1732:Luis:3/23/1951:Decatur:ICT:Master:35
+1733:Rose:2/12/1957:Salt Lake City:WEO:PhD:32
+1734:Alice:6/5/1970:Portage:ICT:Professor:36
+1735:Michael:8/14/1952:Bristol:WEO:Professor:23
+1736:Joshua:4/13/1958:Southfield:RE:Professor:40
+1737:Joseph:3/14/1957:Lawton:MSN:PhD:36
+1738:James:12/30/1957:Brooklyn:SA:PhD:48
+1739:Kevin:2/26/1970:Omaha:ICT:Professor:28
+1740:Jerry:8/3/1968:Dallas:MSN:Master:28
+1741:Bertha:4/4/1953:Atlanta:SA:Master:23
+1742:Michael:4/23/1960:Brighton:ICT:PhD:33
+1743:Ada:2/7/1971:Levittown:ICT:Professor:30
+1744:Hector:5/29/1956:Chicago:BIO:Professor:44
+1745:Dana:7/1/1954:Miramar:WEO:Professor:40
+1746:Colleen:8/5/1954:Mcallen:SA:Master:46
+1747:Adam:8/1/1961:Marquette:ICT:PhD:38
+1748:Lana:3/28/1969:Texarkana:SA:PhD:28
+1749:George:8/24/1950:Franklin:SA:Professor:45
+1750:Shirley:6/6/1957:Acme:MSN:Professor:39
+1751:Elsie:4/9/1960:Columbus:SA:Master:38
+1752:Robert:7/10/1950:Somerville:WEO:Professor:22
+1753:Bill:8/27/1962:Franklin:RE:PhD:49
+1754:Frank:5/20/1966:Brownsville:RE:PhD:50
+1755:Clark:12/13/1955:Avella:RE:Professor:43
+1756:Elizabeth:2/8/1960:Belton:RE:Professor:27
+1757:James:7/10/1950:Portland:WEO:Master:32
+1758:Donald:4/4/1956:Colorado Springs:RE:PhD:50
+1759:Scott:7/23/1957:York:RE:PhD:43
+1760:Steven:9/2/1952:Greensboro:WEO:Professor:21
+1761:Adrian:9/16/1954:Norfolk:ICT:PhD:48
+1762:Mary:8/8/1971:Orlando:RE:Master:22
+1763:Terrance:8/9/1968:Los Angeles:RE:Master:44
+1764:Brenda:12/1/1963:Sparta:BIO:PhD:21
+1765:Brian:3/5/1967:Los Angeles:BIO:PhD:42
+1766:Allen:10/14/1968:Rapid City:ICT:Master:33
+1767:Richard:5/24/1969:Tullytown:RE:Professor:47
+1768:Kristin:7/17/1957:North Billerica:SA:Professor:24
+1769:Raquel:9/4/1968:Richmond:ICT:Professor:20
+1770:Donald:7/29/1950:Fort Myers:WEO:PhD:22
+1771:Janet:1/4/1952:Chandler:MSN:Professor:24
+1772:Daniel:12/8/1958:Meadview:SA:Professor:42
+1773:Bryan:1/24/1965:Chicago:SA:Professor:48
+1774:Nick:9/4/1971:Hanover:WEO:Professor:44
+1775:Carolyn:10/11/1954:Las Vegas:RE:Professor:46
+1776:John:10/3/1968:Worcester:RE:Master:48
+1777:Rickey:6/19/1972:Wichita:ICT:PhD:38
+1778:Arlene:4/9/1958:Chantilly:ICT:Master:48
+1779:Anna:4/26/1953:Yucca Valley:WEO:Professor:33
+1780:Paul:10/19/1959:Fayetteville:WEO:Professor:39
+1781:Mark:5/2/1961:Gulfport:ICT:PhD:36
+1782:Norma:10/1/1953:Tucson:SA:Professor:27
+1783:Travis:10/20/1958:Corpus Christi:BIO:PhD:33
+1784:Dorothy:11/27/1969:Albany:RE:Professor:35
+1785:Donald:5/25/1967:Swifton:MSN:Master:31
+1786:Susan:1/18/1970:Atlanta:BIO:PhD:33
+1787:Mary:7/31/1954:Pinehurst:ICT:Master:35
+1788:Roger:11/24/1972:Hartford:WEO:PhD:41
+1789:Joseph:9/12/1963:Greensboro:MSN:Professor:31
+1790:Ann:5/30/1955:Greensboro:WEO:PhD:29
+1791:Kristen:4/16/1970:Beaverton:BIO:Master:32
+1792:Chad:9/11/1960:Madison:MSN:Master:45
+1793:Arthur:1/4/1960:Endicott:SA:Master:37
+1794:Adam:8/22/1963:Fayetteville:MSN:Professor:26
+1795:Shelly:2/23/1962:New York:MSN:PhD:35
+1796:Jamie:8/12/1950:East Syracuse:WEO:Professor:31
+1797:Charles:6/7/1953:Dallas:MSN:Master:47
+1798:Christian:11/30/1964:Independence:MSN:PhD:31
+1799:Eusebio:8/30/1966:Klamath Falls:WEO:Master:34
+1800:Jeffrey:5/4/1962:Lynnwood:MSN:Professor:43
+1801:James:4/25/1953:Monterey:SA:PhD:20
+1802:Virginia:4/10/1950:Grand Rapids:WEO:Professor:49
+1803:Betty:7/26/1965:Camden:MSN:Professor:23
+1804:Nancy:3/27/1952:Rosebud:MSN:PhD:45
+1805:Kimberlee:12/10/1964:Houston:ICT:Professor:24
+1806:Jeffery:10/22/1957:Sacramento:BIO:Master:31
+1807:Derek:11/4/1953:Los Angeles:SA:Professor:49
+1808:Heriberto:4/6/1954:Elk Grove Village:BIO:Professor:36
+1809:John:12/14/1962:Bloomington:MSN:Master:20
+1810:Michael:12/19/1970:Allendale:MSN:Professor:47
+1811:John:2/11/1964:Springfield:RE:Master:42
+1812:Grace:1/17/1962:Salt Lake City:ICT:Master:20
+1813:Allen:12/27/1961:Newport News:MSN:Master:39
+1814:Fannie:7/3/1952:La Grange:WEO:PhD:46
+1815:Daryl:6/14/1958:Salisbury:BIO:PhD:29
+1816:Kelley:11/20/1963:Madison:BIO:Professor:48
+1817:Michael:5/6/1957:Bayonne:SA:Professor:49
+1818:Jocelyn:11/11/1955:Bell:WEO:Master:25
+1819:Eula:7/30/1972:Southfield:BIO:PhD:39
+1820:Jettie:5/3/1957:Baton Rouge:ICT:Professor:48
+1821:John:7/27/1962:Mountain View:MSN:PhD:26
+1822:Stanley:4/9/1956:Dora:WEO:Professor:48
+1823:John:2/27/1972:Liberal:SA:Professor:26
+1824:Nick:8/9/1962:Philadelphia:BIO:Master:48
+1825:Julie:5/10/1956:Kenosha:RE:Professor:22
+1826:Crystal:6/16/1959:Houston:BIO:Professor:27
+1827:Mary:10/3/1966:Crystal:BIO:Master:24
+1828:Timothy:2/15/1959:Wapwallopen:BIO:PhD:35
+1829:Meredith:10/28/1952:San Francisco:BIO:Master:49
+1830:Peggy:11/8/1969:Pittsburgh:BIO:Master:34
+1831:Brenda:11/30/1952:Houston:RE:Master:24
+1832:Johnnie:4/9/1953:Teterboro:WEO:Professor:33
+1833:Heath:2/25/1955:Reston:SA:Master:36
+1834:Jean:12/26/1952:Kailua:WEO:Professor:28
+1835:Frances:7/7/1969:Kapaa:BIO:PhD:21
+1836:Karen:8/12/1968:Brentwood:RE:Master:20
+1837:Hui:3/8/1957:Santa Rosa:MSN:Professor:49
+1838:Debbie:8/8/1967:North Las Vegas:RE:PhD:27
+1839:Adele:3/25/1966:Colorado Springs:RE:Master:44
+1840:Kathy:3/10/1959:Tampa:RE:PhD:22
+1841:Matthew:7/23/1960:Los Angeles:BIO:Master:38
+1842:Leatha:10/27/1952:Newport News:SA:PhD:31
+1843:Keith:2/11/1959:Albany:SA:Master:32
+1844:Roger:4/27/1959:Fullerton:RE:Professor:47
+1845:Amy:8/8/1957:Irvine:MSN:Professor:33
+1846:Timothy:3/5/1966:New York:BIO:Master:35
+1847:Oscar:6/26/1950:Orlando:SA:Professor:38
+1848:James:8/12/1955:Mason City:RE:PhD:41
+1849:Walter:10/19/1969:Vicksburg:BIO:Professor:32
+1850:Noel:12/3/1956:Crafton:SA:PhD:49
+1851:Danny:2/8/1964:New York:RE:Professor:37
+1852:Marsha:11/5/1967:Montgomery:RE:PhD:39
+1853:Charles:9/29/1961:Metairie:WEO:Master:37
+1854:Eleanor:5/19/1964:Augusta:RE:Master:40
+1855:Steven:9/3/1964:Louisville:RE:Master:25
+1856:Anna:12/1/1951:Plantation:WEO:PhD:35
+1857:Brian:6/15/1956:Columbus:ICT:Professor:34
+1858:Hailey:5/3/1958:Columbia:RE:PhD:35
+1859:Charlotte:12/30/1972:Davis City:WEO:PhD:40
+1860:Larry:2/11/1956:Hattiesburg:MSN:Master:27
+1861:John:12/6/1969:Atlanta:BIO:Master:32
+1862:Pearl:11/11/1958:Stillwater:BIO:Master:23
+1863:Craig:3/15/1959:Milford:BIO:Master:28
+1864:Hugo:5/2/1968:Fresno:BIO:PhD:37
+1865:Evelyn:10/26/1969:American Fork:ICT:Master:31
+1866:Sarah:4/18/1962:Houston:ICT:Master:47
+1867:Kelsey:6/4/1965:San Francisco:WEO:Professor:36
+1868:Brenda:7/26/1953:Warrensville Heights:ICT:Master:47
+1869:Beulah:5/27/1958:Corona:WEO:PhD:37
+1870:Stephen:5/17/1970:Salt Lake City:MSN:Professor:37
+1871:Doreen:7/3/1960:Washington:BIO:Professor:35
+1872:Joel:12/2/1956:Norcross:SA:PhD:20
+1873:Bruce:9/6/1952:Maryland Heights:WEO:Professor:43
+1874:Carl:12/1/1957:Greensboro:RE:Master:49
+1875:Travis:7/9/1965:Evansville:ICT:PhD:50
+1876:Jimmy:8/12/1971:San Jose:SA:PhD:37
+1877:Elizabeth:1/9/1969:Denver:RE:PhD:20
+1878:Sylvia:11/22/1968:Bangor:ICT:PhD:41
+1879:Jerry:6/17/1954:Reston:MSN:PhD:50
+1880:Jeanetta:8/30/1971:Walker:ICT:PhD:36
+1881:Lynn:3/14/1964:Farmers Branch:SA:Professor:38
+1882:Margaret:11/26/1950:Martinsburg:MSN:Professor:22
+1883:Miguel:7/30/1970:Grove City:SA:PhD:33
+1884:Curtis:3/12/1953:Ipswich:SA:PhD:44
+1885:Vera:6/24/1967:Newton:WEO:PhD:32
+1886:Doris:10/20/1951:San Antonio:RE:Master:28
+1887:John:2/23/1954:Albany:RE:Professor:32
+1888:Robert:7/4/1952:Chilton:RE:PhD:44
+1889:James:5/23/1950:Detroit:WEO:PhD:45
+1890:Dustin:3/11/1954:Aztec:MSN:PhD:33
+1891:Dennis:6/24/1959:Louisville:MSN:Master:22
+1892:Charles:9/2/1958:Newberry:MSN:Master:28
+1893:Renee:3/26/1965:Spokane:MSN:PhD:21
+1894:Vincent:12/9/1956:Houston:SA:Master:29
+1895:Janet:11/7/1965:El Sobrante:BIO:Master:49
+1896:Barbar:8/6/1969:Columbia:RE:Professor:42
+1897:Martha:11/6/1960:Auburn:SA:Master:22
+1898:Cherise:5/7/1959:Silver Creek:MSN:PhD:20
+1899:Anne:9/4/1956:Detroit:SA:Professor:33
+1900:Micheal:1/26/1959:Indianapolis:WEO:Master:43
+1901:Lindsey:2/4/1956:Oakland:ICT:PhD:45
+1902:Robert:5/27/1950:Tucson:BIO:Master:48
+1903:Robert:4/6/1972:Worthington:SA:Master:43
+1904:Velma:10/29/1966:Sparks:RE:PhD:29
+1905:Diane:4/15/1962:Chandler:BIO:PhD:30
+1906:Scott:10/3/1969:Los Angeles:ICT:Professor:21
+1907:Andrew:11/25/1965:Frederick:BIO:PhD:38
+1908:Diane:11/26/1972:Dallas:BIO:PhD:36
+1909:Larry:4/25/1961:Wood Dale:BIO:Master:38
+1910:Walter:12/13/1971:Mcqueeney:MSN:PhD:23
+1911:Connie:12/13/1955:Springfield:RE:Professor:45
+1912:Thomas:4/3/1950:Springfield:BIO:Master:29
+1913:Peggy:10/13/1960:Foxboro:SA:Master:40
+1914:Alice:8/30/1956:Denver:ICT:Master:28
+1915:Michael:12/30/1971:Gulfport:MSN:Professor:35
+1916:Debra:10/14/1972:Dieterich:ICT:Master:31
+1917:Michael:6/14/1952:Dallas:ICT:Professor:47
+1918:Thelma:12/6/1952:Saint Louis:ICT:PhD:29
+1919:Ruby:11/3/1963:Fresno:SA:Professor:27
+1920:Ty:6/17/1952:Irvine:RE:Professor:22
+1921:Charles:9/25/1963:Boston:ICT:PhD:40
+1922:Casandra:4/23/1963:Jackson:SA:Professor:36
+1923:Alisha:10/30/1972:Oklahoma City:WEO:PhD:43
+1924:Wendy:3/28/1960:Metropolis:RE:PhD:50
+1925:Joseph:8/23/1969:Fredericksburg:MSN:Professor:24
+1926:Leslie:11/21/1969:Blue Ash:BIO:Master:32
+1927:Kent:4/8/1951:Norwalk:RE:PhD:20
+1928:Justin:5/3/1966:Minneapolis:SA:PhD:33
+1929:Eric:10/29/1954:Urbandale:SA:Professor:24
+1930:Robert:8/10/1952:Albany:BIO:Professor:43
+1931:Cynthia:9/24/1959:Table Mesa:WEO:Professor:23
+1932:Larry:1/8/1966:Atlanta:BIO:Master:42
+1933:Kathryn:7/25/1967:Reno:SA:PhD:49
+1934:Eric:8/4/1954:Cary:MSN:PhD:39
+1935:Marilyn:8/26/1956:Sacramento:WEO:Master:49
+1936:James:5/24/1963:Mineola:ICT:Professor:45
+1937:Sandra:10/12/1953:Boston:RE:PhD:47
+1938:Louanne:9/23/1961:Jacksonville:RE:Professor:47
+1939:David:1/17/1951:Teterboro:BIO:PhD:46
+1940:Aaron:7/30/1967:North Charleston:RE:PhD:44
+1941:Dorothy:7/5/1971:Colfax:RE:Professor:28
+1942:Roger:2/26/1961:Scotts Hill:SA:Master:44
+1943:Joshua:4/4/1952:West Los Angeles:MSN:PhD:34
+1944:Melanie:12/12/1966:Brooklyn:RE:Professor:46
+1945:Denice:5/8/1954:Bronx:BIO:PhD:42
+1946:Justin:7/4/1966:Lisbon:RE:Professor:24
+1947:Liza:9/3/1959:Gainesville:ICT:PhD:44
+1948:James:11/29/1963:Los Angeles:MSN:Master:27
+1949:Wallace:4/1/1960:Milwaukee:MSN:PhD:45
+1950:Mildred:7/22/1953:Pittsburgh:BIO:Professor:34
+1951:Amber:2/18/1955:Keyport:SA:Master:38
+1952:Colleen:3/28/1970:Islamorada:SA:Master:33
+1953:Rachel:10/23/1958:Elmsford:SA:Professor:22
+1954:Luis:5/22/1959:Los Angeles:SA:PhD:24
+1955:Robert:2/3/1959:Elmsford:MSN:Professor:44
+1956:Stephanie:4/24/1966:Baltimore:RE:Professor:31
+1957:Santina:10/15/1966:Hemet:SA:Master:45
+1958:Jonathan:3/5/1972:Oklahoma City:RE:PhD:35
+1959:Aimee:8/8/1958:Elk Grove Village:ICT:Professor:23
+1960:Marvin:4/24/1960:Plainfield:SA:PhD:27
+1961:Norma:10/3/1950:White Plains:MSN:PhD:43
+1962:Anthony:1/3/1956:Lorton:MSN:Professor:28
+1963:Robert:1/25/1959:Glendive:BIO:PhD:28
+1964:Jamison:2/28/1968:Isabel:MSN:PhD:34
+1965:Isabelle:12/24/1960:Plano:WEO:PhD:33
+1966:James:10/26/1971:San Diego:BIO:PhD:44
+1967:Betty:4/25/1966:South Boston:RE:PhD:48
+1968:Mary:10/29/1956:Wilmington:MSN:Professor:22
+1969:Mary:4/27/1962:Lake Worth:WEO:Professor:34
+1970:Michelle:4/2/1964:Anvik:BIO:Master:21
+1971:Gerard:10/23/1971:Cotati:MSN:Master:49
+1972:Leonard:10/10/1968:Bakersfield:WEO:Professor:23
+1973:Jared:6/29/1963:Raleigh:BIO:PhD:28
+1974:Jane:5/23/1954:Morganton:SA:PhD:36
+1975:Jordan:1/1/1970:Brooklyn:SA:PhD:44
+1976:Todd:11/8/1971:Little Rock:SA:PhD:28
+1977:Elizabeth:10/30/1962:Fairview Heights:SA:Master:39
+1978:Nicole:6/11/1954:Saint Clairsville:BIO:PhD:28
+1979:David:11/16/1964:Phoenix:MSN:PhD:38
+1980:Abigail:5/14/1964:Baltimore:WEO:Professor:42
+1981:Christopher:10/30/1961:Seattle:RE:Master:26
+1982:Franklin:5/7/1952:Greenville:WEO:Master:26
+1983:Traci:7/25/1959:Alleghany:BIO:Professor:30
+1984:Myrtle:2/27/1966:Marquette:WEO:PhD:41
+1985:Steven:4/29/1965:Plano:SA:PhD:26
+1986:Terence:3/21/1972:Norfolk:ICT:Professor:40
+1987:Charlene:6/14/1971:No Springfield:RE:Professor:21
+1988:Glen:1/8/1967:Princeton:BIO:PhD:31
+1989:James:5/31/1971:Fresno:MSN:Professor:25
+1990:Timothy:8/6/1950:San Jose:ICT:PhD:44
+1991:Brian:12/31/1970:Buena Park:RE:Professor:37
+1992:Hazel:3/18/1958:Cincinnati:BIO:Professor:41
+1993:Pearlie:11/26/1961:Elkton:WEO:PhD:46
+1994:Lisa:10/12/1971:Minong:ICT:PhD:26
+1995:Kim:5/19/1963:Tuscaloosa:SA:Professor:30
+1996:Maria:7/4/1963:Dallas:WEO:Professor:47
+1997:Mark:9/3/1970:Birmingham:RE:Professor:34
+1998:Elmer:7/29/1972:Charlotte:ICT:Professor:24
+1999:Jenny:7/22/1961:Hollywood:SA:Professor:48
+2000:Gregory:11/24/1964:Needham:SA:PhD:20
