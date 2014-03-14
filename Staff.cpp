@@ -19,17 +19,19 @@ Staff::Staff (int id, string name, string dOB, string address,
 
 void Staff::Print() {
 	Person::Print();
-	cout << dept << endl;
-	cout << pos << endl;
-	cout << sal_rate << endl;
+	cout << ":"<< dept << ":";
+	cout << pos << ":";
+	cout << sal_rate;
 }
 
 void Staff::Set_sal_rate(int sal_rate) {
 	this->sal_rate = sal_rate;
 }
+
 void Staff::Set_dept(string dept) {
 	this->dept = dept;
 }
+
 void Staff::Set_pos(string pos) {
 	this->pos = pos;
 }
