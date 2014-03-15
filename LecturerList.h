@@ -11,7 +11,7 @@
 #include <fstream>
 #include <sstream>
 
-typedef std::list<Lecturer>::iterator student_pos;//pointer to a student on the list
+typedef std::list<Lecturer>::iterator lecturer_pos;//pointer to a lecturer on the list
 class LecturerList {
 	protected:
 		list<Lecturer> lec_list;
@@ -42,7 +42,7 @@ class LecturerList {
 		void searchByName();
 		void searchByDOB();
 		void searchByAddress();
-		void searchByYears();
+		void searchByExpYears();
 		void searchByField();
 		void searchByTitle();
 		////////////////////////////
@@ -53,7 +53,7 @@ class LecturerList {
 		void changeName(int);
 		void changeDOB(int);
 		void changeAddress(int);
-		void changeYears(int);
+		void changeExpYears(int);
 		void changeField(int);
 		void changeTitle(int);
 		////////////////////////////

@@ -21,7 +21,7 @@ int main() {
 //	string tempClassName = Son.Get_class_name();
 //	string tempMajor = Son.Get_major();	
 //	
-//	Student SonClone(tempId,
+//	Lecturer SonClone(tempId,
 //									tempName, 
 //									tempDOB, 
 //									tempAddress,
