@@ -11,7 +11,7 @@
 #include <fstream>
 #include <sstream>
 
-typedef std::list<Staff>::iterator student_pos;//pointer to a student on the list
+typedef std::list<Staff>::iterator staff_pos;//pointer to a staff member on the list
 class StaffList {
 	protected:
 		list<Staff> stf_list;
@@ -23,7 +23,7 @@ class StaffList {
 		~StaffList();
 		//StaffList.cpp
 		bool isValidID(int);
-		student_pos posOfID(int);
+		staff_pos posOfID(int);
 		int newID();
 		bool userConfirm();
 		////////////////////////////

@@ -10,8 +10,8 @@ Top=0
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-Focused=29
-Order=23,20,18,0,22,24,15,13,25,12,26,27,28,9,17,16,29,10,21
+Focused=6
+Order=23,20,18,0,22,24,15,13,25,12,26,27,28,9,17,16,29,10,21,7,6,34,33
 =======
 =======
 >>>>>>> 3f718ec53e9873999af786ec60872846e7776d78
@@ -58,14 +58,14 @@ CursorRow=1
 TopLine=1
 LeftChar=1
 [Editor_6]
-Open=0
-Top=0
+Open=1
+Top=1
 CursorCol=7
 CursorRow=31
 TopLine=1
 LeftChar=1
 [Editor_7]
-Open=0
+Open=1
 Top=0
 CursorCol=2
 CursorRow=45
@@ -254,8 +254,40 @@ TopLine=1
 LeftChar=1
 [Editor_29]
 Open=1
-Top=1
+Top=0
 CursorCol=2
 CursorRow=11
 TopLine=1
 LeftChar=1
+[Editor_30]
+Open=0
+Top=0
+[Editor_31]
+Open=0
+Top=0
+[Editor_32]
+Open=0
+Top=0
+[Editor_33]
+Open=1
+Top=0
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_34]
+Open=1
+Top=0
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_35]
+Open=0
+Top=0
+[Editor_36]
+Open=0
+Top=0
+[Editor_37]
+Open=0
+Top=0
