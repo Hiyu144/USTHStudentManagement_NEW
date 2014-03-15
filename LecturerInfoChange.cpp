@@ -122,7 +122,7 @@ void LecturerList::changeLecturerInfo(int id) {
 	  					break;
 	  	case 5: changeTitle(id);
 	  					break;
-	  	case 6: changeExpYear(id);
+	  	case 6: changeExpYears(id);
 	  					//mainScreen(); 					
 	  					break;
 	  	case 0: return;
@@ -192,7 +192,7 @@ void LecturerList::changeAddress(int id) {
 	}
 }
 
-void LecturerList::changeExpYear(int id) {	
+void LecturerList::changeExpYears(int id) {	
 	cout << "Lecturer's experience years: " << endl;
 	lecturer_pos i = posOfID(id);
 	cout << i->Get_years() << endl;	

@@ -125,7 +125,7 @@ void LecturerList::addLecturer(Lecturer newbie) {
 	int lastLecturerID = lec_list.back().Get_id();
 	int newID = lastLecturerID + 1;
 	newbie.Set_id(newID);
-	stu_list.push_back(newbie);
+	lec_list.push_back(newbie);
 	//l[size].Set_id(newId);
 	//size++;				
 	writeFile(output_text_file);

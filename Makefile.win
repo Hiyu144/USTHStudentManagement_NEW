@@ -4,11 +4,11 @@
 CPP      = g++.exe -D__DEBUG__
 CC       = gcc.exe -D__DEBUG__
 WINDRES  = windres.exe
-OBJ      = Person.o PersonTest.o Student.o StudentTest.o Staff.o Staff_test.o StudentList_test.o StudentSearch.o StudentFileController.o StudentInfoChange.o StudentAdd.o StudentRemove.o StudentMainScreen.o StudentList.o Lecturer.o LecturerTest.o LecturerAdd.o
-LINKOBJ  = Person.o PersonTest.o Student.o StudentTest.o Staff.o Staff_test.o StudentList_test.o StudentSearch.o StudentFileController.o StudentInfoChange.o StudentAdd.o StudentRemove.o StudentMainScreen.o StudentList.o Lecturer.o LecturerTest.o LecturerAdd.o
-LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -m32 -g3
-INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include"
-CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++"
+OBJ      = Person.o PersonTest.o Student.o StudentTest.o Staff.o Staff_test.o StudentList_test.o StudentSearch.o StudentFileController.o StudentInfoChange.o StudentAdd.o StudentRemove.o StudentMainScreen.o StudentList.o Lecturer.o LecturerTest.o LecturerAdd.o LecturerSearch.o LecturerRemove.o LecturerInfoChange.o LecturerFileController.o LecturerList.o LecturerMainScreen.o LecturerList_test.o
+LINKOBJ  = Person.o PersonTest.o Student.o StudentTest.o Staff.o Staff_test.o StudentList_test.o StudentSearch.o StudentFileController.o StudentInfoChange.o StudentAdd.o StudentRemove.o StudentMainScreen.o StudentList.o Lecturer.o LecturerTest.o LecturerAdd.o LecturerSearch.o LecturerRemove.o LecturerInfoChange.o LecturerFileController.o LecturerList.o LecturerMainScreen.o LecturerList_test.o
+LIBS     = -L"D:/Dev-Cpp/MinGW64/lib" -L"D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -m32 -g3
+INCS     = -I"D:/Dev-Cpp/MinGW64/include" -I"D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include"
+CXXINCS  = -I"D:/Dev-Cpp/MinGW64/include" -I"D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include" -I"D:/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++"
 BIN      = USTH_Student_Management.exe
 CXXFLAGS = $(CXXINCS) -m32 -g3
 CFLAGS   = $(INCS) -m32 -g3
@@ -74,3 +74,24 @@ LecturerTest.o: LecturerTest.cpp
 
 LecturerAdd.o: LecturerAdd.cpp
 	$(CPP) -c LecturerAdd.cpp -o LecturerAdd.o $(CXXFLAGS)
+
+LecturerSearch.o: LecturerSearch.cpp
+	$(CPP) -c LecturerSearch.cpp -o LecturerSearch.o $(CXXFLAGS)
+
+LecturerRemove.o: LecturerRemove.cpp
+	$(CPP) -c LecturerRemove.cpp -o LecturerRemove.o $(CXXFLAGS)
+
+LecturerInfoChange.o: LecturerInfoChange.cpp
+	$(CPP) -c LecturerInfoChange.cpp -o LecturerInfoChange.o $(CXXFLAGS)
+
+LecturerFileController.o: LecturerFileController.cpp
+	$(CPP) -c LecturerFileController.cpp -o LecturerFileController.o $(CXXFLAGS)
+
+LecturerList.o: LecturerList.cpp
+	$(CPP) -c LecturerList.cpp -o LecturerList.o $(CXXFLAGS)
+
+LecturerMainScreen.o: LecturerMainScreen.cpp
+	$(CPP) -c LecturerMainScreen.cpp -o LecturerMainScreen.o $(CXXFLAGS)
+
+LecturerList_test.o: LecturerList_test.cpp
+	$(CPP) -c LecturerList_test.cpp -o LecturerList_test.o $(CXXFLAGS)

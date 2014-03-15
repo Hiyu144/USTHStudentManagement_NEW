@@ -4,7 +4,7 @@
 4:Bambi:11/7/1962:Orange City:BIO:Professor:24
 5:Franklin:9/6/1956:Oakland:SA:PhD:23
 6:Karen:5/26/1971:Seattle:RE:Master:24
-7:Joann:8/8/1961:Peoria:BIO:Master:33
+7:Joann de arc:8/8/1961:Peoria:BATMAN:Master Wayne:123123
 8:Darlene:9/24/1966:Saginaw:RE:Professor:23
 9:Vennie:6/4/1950:San Antonio:WEO:Master:36
 10:Jenifer:7/17/1969:Southfield:MSN:Professor:20

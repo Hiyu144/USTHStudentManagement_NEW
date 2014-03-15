@@ -23,7 +23,7 @@ class LecturerList {
 		~LecturerList();
 		//LecturerList.cpp
 		bool isValidID(int);
-		student_pos posOfID(int);
+		lecturer_pos posOfID(int);
 		int newID();
 		bool userConfirm();
 		////////////////////////////
