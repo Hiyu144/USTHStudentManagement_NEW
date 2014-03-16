@@ -139,7 +139,7 @@ void StudentList::changeStudentInfo(int id) {
 //update student info in usth_student_list[]
 //call writeFile() to update the new info in output_text_file
 void StudentList::changeName(int id) {
-	cout << "Student Name: " << endl;
+	cout << "Student Name: " ;
 	student_pos i = posOfID(id);
 	cout << i->Get_name() << endl;	
 	string new_name;
@@ -158,7 +158,7 @@ void StudentList::changeName(int id) {
 }
 
 void StudentList::changeDOB(int id) {
-	cout << "Date of Birth: " << endl;
+	cout << "Date of Birth: " ;
 	student_pos i = posOfID(id);
 	cout << i->Get_dOB() << endl;	
 	string new_dOB;
@@ -176,7 +176,7 @@ void StudentList::changeDOB(int id) {
 }
 
 void StudentList::changeAddress(int id) {
-	cout << "Student's address: " << endl;
+	cout << "Student's address: " ;
 	student_pos i = posOfID(id);
 	cout << i->Get_address() << endl;	
 	string new_address;
@@ -193,7 +193,7 @@ void StudentList::changeAddress(int id) {
 }
 
 void StudentList::changeEnterYear(int id) {	
-	cout << "Student's enter year: " << endl;
+	cout << "Student's enter year: " ;
 	student_pos i = posOfID(id);
 	cout << i->Get_enter_year() << endl;	
 	int new_enter_year;
@@ -213,7 +213,7 @@ void StudentList::changeEnterYear(int id) {
 }
 
 void StudentList::changeClassName(int id) {
-	cout << "Student's class name: " << endl;
+	cout << "Student's class name: ";
 	student_pos i = posOfID(id);
 	cout << i->Get_class_name() << endl;	
 	string new_class_name;
@@ -230,7 +230,7 @@ void StudentList::changeClassName(int id) {
 }
 
 void StudentList::changeMajor(int id) {
-	cout << "Student's major: " << endl;
+	cout << "Student's major: ";
 	student_pos i = posOfID(id);
 	cout << i->Get_major() << endl;	
 	string new_major;

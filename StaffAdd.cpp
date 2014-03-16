@@ -58,22 +58,22 @@ void StaffList::mainAddStaff() {
 void StaffList::createStaff() {
 	string new_name, new_dob, new_address, new_dept, new_pos;
 	int new_sal_rate;
-	cout << "Name: " << endl;
+	cout << "Name: ";
 	cin.ignore();
 	getline(cin, new_name);
-	cout << "DOB: " << endl;
+	cout << "DOB: ";
 	//cin.ignore();
 	getline(cin, new_dob);
-	cout << "Address: " << endl;
+	cout << "Address: ";
 	//cin.ignore();
 	getline(cin, new_address);	
-	cout << "Department: " << endl;
+	cout << "Department: ";
 	cin.ignore();
 	getline(cin, new_dept);
-	cout << "Position: " << endl;
+	cout << "Position: ";
 	//cin.ignore();
 	getline(cin, new_pos);
-	cout << "Salary rate: " << endl;
+	cout << "Salary rate: ";
 	while (!(cin >> new_sal_rate)||new_sal_rate<0) {
 		cout << "Invalid number!" << endl;
 		cin.clear();
@@ -90,6 +90,7 @@ void StaffList::createStaff() {
 	cout << "Choose one: " << endl;
 	cout << "1. Add a staff member" << endl;
 	cout << "0. Back" << endl;
+	cout << "Enter Your option: ";
 	int command;
 	while (true) {
 			cin >> command;
@@ -125,7 +126,7 @@ void StaffList::addStaff(Staff newbie) {
 	int lastStaffID = stf_list.back().Get_id();
 	int newID = lastStaffID + 1;
 	newbie.Set_id(newID);
-	stu_list.push_back(newbie);
+	stf_list.push_back(newbie);
 	//l[size].Set_id(newId);
 	//size++;				
 	writeFile(output_text_file);

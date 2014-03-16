@@ -26,7 +26,7 @@ void StudentList::mainScreen() {
 		cout << "2. Change student info." << endl;
 	  cout << "3. Remove student." << endl;
 	  cout << "4. Add a student." << endl;
-	  cout << "0. Exit." << endl;
+	  cout << "0. Back." << endl;
 	  
 	  cout << "Enter a number: ";
 	  
@@ -54,7 +54,7 @@ void StudentList::mainScreen() {
 	  	case 4: mainAddStudent();
 	  					//mainScreen(); 					
 	  					break;
-	  	case 0: exit(0);
+	  	case 0: return;
 	  	default: 
 	  		cout << "Invalid command!" << endl;
 	  		mainScreen();

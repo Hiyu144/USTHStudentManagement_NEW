@@ -64,25 +64,25 @@ void StudentList::mainAddStudent() {
 void StudentList::createStudent() {
 	string new_name, new_dob, new_address, new_class_name, new_major;
 	int new_enter_year;
-	cout << "Name: " << endl;
+	cout << "Name: ";
 	cin.ignore();
 	getline(cin, new_name);
-	cout << "DOB: " << endl;
+	cout << "DOB: ";
 	//cin.ignore();
 	getline(cin, new_dob);
-	cout << "Address: " << endl;
+	cout << "Address: ";
 	//cin.ignore();
 	getline(cin, new_address);
-	cout << "Enter year: " << endl;
+	cout << "Enter year: ";
 	while (!(cin >> new_enter_year)||new_enter_year<0) {
 		cout << "Invalid number!" << endl;
 		cin.clear();
 		cin.ignore(256,'\n');
 	}	
-	cout << "Class: " << endl;
+	cout << "Class: ";
 	cin.ignore();
 	getline(cin, new_class_name);
-	cout << "Major: " << endl;
+	cout << "Major: ";
 	//cin.ignore();
 	getline(cin, new_major);	
 	int new_id = newID();	
@@ -96,6 +96,7 @@ void StudentList::createStudent() {
 	cout << "Choose one: " << endl;
 	cout << "1. Add student" << endl;
 	cout << "0. Back" << endl;
+	cout << "Enter Your option: ";
 	int command;
 	while (true) {
 			cin >> command;

@@ -26,7 +26,7 @@ void LecturerList::mainScreen() {
 		cout << "2. Change lecturer info." << endl;
 	  cout << "3. Remove lecturer." << endl;
 	  cout << "4. Add a lecturer." << endl;
-	  cout << "0. Exit." << endl;
+	  cout << "0. Back." << endl;
 	  
 	  cout << "Enter a number: ";
 	  
@@ -54,7 +54,7 @@ void LecturerList::mainScreen() {
 	  	case 4: mainAddLecturer();
 	  					//mainScreen(); 					
 	  					break;
-	  	case 0: exit(0);
+	  	case 0: return;
 	  	default: 
 	  		cout << "Invalid command!" << endl;
 	  		mainScreen();

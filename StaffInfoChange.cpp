@@ -139,7 +139,7 @@ void StaffList::changeStaffInfo(int id) {
 //update staff info in usth_staff_list[]
 //call writeFile() to update the new info in output_text_file
 void StaffList::changeName(int id) {
-	cout << "Staff Name: " << endl;
+	cout << "Staff Name: ";
 	staff_pos i = posOfID(id);
 	cout << i->Get_name() << endl;	
 	string new_name;
@@ -158,7 +158,7 @@ void StaffList::changeName(int id) {
 }
 
 void StaffList::changeDOB(int id) {
-	cout << "Date of Birth: " << endl;
+	cout << "Date of Birth: ";
 	staff_pos i = posOfID(id);
 	cout << i->Get_dOB() << endl;	
 	string new_dOB;
@@ -176,7 +176,7 @@ void StaffList::changeDOB(int id) {
 }
 
 void StaffList::changeAddress(int id) {
-	cout << "Staff's address: " << endl;
+	cout << "Staff's address: ";
 	staff_pos i = posOfID(id);
 	cout << i->Get_address() << endl;	
 	string new_address;
@@ -193,7 +193,7 @@ void StaffList::changeAddress(int id) {
 }
 
 void StaffList::changeSalRate(int id) {	
-	cout << "Staff's salary rate: " << endl;
+	cout << "Staff's salary rate: ";
 	staff_pos i = posOfID(id);
 	cout << i->Get_sal_rate() << endl;	
 	int new_sal_rate;
@@ -213,7 +213,7 @@ void StaffList::changeSalRate(int id) {
 }
 
 void StaffList::changeDept(int id) {
-	cout << "Staff's department: " << endl;
+	cout << "Staff's department: ";
 	staff_pos i = posOfID(id);
 	cout << i->Get_dept() << endl;	
 	string new_dept;
@@ -230,7 +230,7 @@ void StaffList::changeDept(int id) {
 }
 
 void StaffList::changePos(int id) {
-	cout << "Staff's position: " << endl;
+	cout << "Staff's position: ";
 	staff_pos i = posOfID(id);
 	cout << i->Get_pos() << endl;	
 	string new_pos;

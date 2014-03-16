@@ -1,7 +1,7 @@
-//#include "LecturerList.h"
+//#include "StaffList.h"
 //
 //int main() {	
-//	LecturerList usth("lecturer_list.txt");
+//	StaffList usth("lecturer_list.txt");
 //	usth.mainScreen();//
 //	////StudentList l("USTH_student_list.txt");	
 //	//l.printStuList();//

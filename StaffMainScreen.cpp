@@ -21,12 +21,12 @@ void StaffList::mainScreen() {
 	//StaffList l("USTH_staff_list.txt");
 	for(;;) {
 		cout << endl << endl;
-		cout << "USTHStaffManager v6.0" << endl;
+		cout << "USTHStaffManager v7.0" << endl;
 		cout << "1. Search." << endl;
 		cout << "2. Change staff member info." << endl;
 	  cout << "3. Remove staff member." << endl;
 	  cout << "4. Add a staff member." << endl;
-	  cout << "0. Exit." << endl;
+	  cout << "0. Back." << endl;
 	  
 	  cout << "What do you want to do, choose one option: ";
 	  
@@ -54,7 +54,7 @@ void StaffList::mainScreen() {
 	  	case 4: mainAddStaff();
 	  					//mainScreen(); 					
 	  					break;
-	  	case 0: exit(0);
+	  	case 0: return;
 	  	default: 
 	  		cout << "Invalid command!" << endl;
 	  		mainScreen();

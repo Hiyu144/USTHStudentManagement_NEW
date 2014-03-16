@@ -139,7 +139,7 @@ void LecturerList::changeLecturerInfo(int id) {
 //update lecturer info in usth_lecturer_list[]
 //call writeFile() to update the new info in output_text_file
 void LecturerList::changeName(int id) {
-	cout << "Lecturer Name: " << endl;
+	cout << "Lecturer Name: ";
 	lecturer_pos i = posOfID(id);
 	cout << i->Get_name() << endl;	
 	string new_name;
@@ -158,7 +158,7 @@ void LecturerList::changeName(int id) {
 }
 
 void LecturerList::changeDOB(int id) {
-	cout << "Date of Birth: " << endl;
+	cout << "Date of Birth: ";
 	lecturer_pos i = posOfID(id);
 	cout << i->Get_dOB() << endl;	
 	string new_dOB;
@@ -176,7 +176,7 @@ void LecturerList::changeDOB(int id) {
 }
 
 void LecturerList::changeAddress(int id) {
-	cout << "Lecturer's address: " << endl;
+	cout << "Lecturer's address: ";
 	lecturer_pos i = posOfID(id);
 	cout << i->Get_address() << endl;	
 	string new_address;
@@ -193,7 +193,7 @@ void LecturerList::changeAddress(int id) {
 }
 
 void LecturerList::changeExpYears(int id) {	
-	cout << "Lecturer's experience years: " << endl;
+	cout << "Lecturer's experience years: ";
 	lecturer_pos i = posOfID(id);
 	cout << i->Get_years() << endl;	
 	int new_exp_year;
@@ -213,7 +213,7 @@ void LecturerList::changeExpYears(int id) {
 }
 
 void LecturerList::changeField(int id) {
-	cout << "Lecturer's field of study: " << endl;
+	cout << "Lecturer's field of study: ";
 	lecturer_pos i = posOfID(id);
 	cout << i->Get_field() << endl;	
 	string new_field;
@@ -230,7 +230,7 @@ void LecturerList::changeField(int id) {
 }
 
 void LecturerList::changeTitle(int id) {
-	cout << "Lecturer's title: " << endl;
+	cout << "Lecturer's title: ";
 	lecturer_pos i = posOfID(id);
 	cout << i->Get_title() << endl;	
 	string new_title;

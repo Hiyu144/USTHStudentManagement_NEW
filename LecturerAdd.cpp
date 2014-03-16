@@ -58,22 +58,22 @@ void LecturerList::mainAddLecturer() {
 void LecturerList::createLecturer() {
 	string new_name, new_dob, new_address, new_title, new_field;
 	int new_years;
-	cout << "Name: " << endl;
+	cout << "Name: ";
 	cin.ignore();
 	getline(cin, new_name);
-	cout << "DOB: " << endl;
+	cout << "DOB: ";
 	//cin.ignore();
 	getline(cin, new_dob);
-	cout << "Address: " << endl;
+	cout << "Address: ";
 	//cin.ignore();
 	getline(cin, new_address);	
-	cout << "Field of study: " << endl;
+	cout << "Field of study: ";
 	cin.ignore();
 	getline(cin, new_field);
-	cout << "Title: " << endl;
+	cout << "Title: ";
 	//cin.ignore();
 	getline(cin, new_title);
-	cout << "Enter year: " << endl;
+	cout << "Enter year: ";
 	while (!(cin >> new_years)||new_years<0) {
 		cout << "Invalid number!" << endl;
 		cin.clear();
@@ -90,6 +90,7 @@ void LecturerList::createLecturer() {
 	cout << "Choose one: " << endl;
 	cout << "1. Add Lecturer" << endl;
 	cout << "0. Back" << endl;
+	cout << "Enter Your option: ";
 	int command;
 	while (true) {
 			cin >> command;
