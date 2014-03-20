@@ -12,7 +12,7 @@ Staff::Staff (int id, string name, string dOB, string address,
 							string dept, string pos, int sal_rate)
 			:Person (id, name, dOB, address) {
 	this->dept = dept;
-	this->pos = name;
+	this->pos = pos;
 	this->sal_rate = sal_rate;
 }
 //Person (Person);
