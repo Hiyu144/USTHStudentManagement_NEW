@@ -55,6 +55,7 @@ void StaffList::mainRemoveStaff() {
 //search the staff in usth_staff_list[] that match the id
 //remove that staff, reduce size by 1 
 //call writeFile() to update info in output_text_file
+
 void StaffList::removeStaff() {
 	int id;
 	cout << "Enter staff member's ID: ";

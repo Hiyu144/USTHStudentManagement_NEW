@@ -44,10 +44,12 @@ int main() {
 	  					break;
 	  	case 3: stflist.mainScreen();	  					
 	  					break;
-//	  	case 4: sujlist.mainScreen();	  					
-//	  					break;
-//			case 5: timetable.mainScreen();
-//							break;	  					
+	  	case 4: //sujlist.mainScreen();	  					
+	  			cout << "COMING SOON!" << endl;
+	  					break;
+		case 5: //timetable.mainScreen();
+				cout << "COMING SOON!" << endl;
+							break;	  					
 	  	case 0: exit(0);
 	  	default: 
 	  		cout << "Invalid command!" << endl;	  			  		
